@@ -3494,21 +3494,7 @@
     "dayNameFr": "Chapitre du lavage du pèlerin en ihram",
     "dayNameEn": "Chapter of Washing for the Muhrim"
   },
-  {
-    "id": 235,
-    "arabicText": "عن جابر بن عبد الله قال: «أهل النبي ﷺ وأصحابه بالحج، وليس مع أحد منهم هدي غير النبي ﷺ وطلحة. وقدم علي ﷺ من اليمن فقال: أهللت بما أهل به النبي ﷺ، فأمر النبي ﷺ أصحابه أن يجعلوها عمرة، فيطوفوا ثم يقصروا ويحلوا؛ إلا من كان معه الهدي. فقالوا: ننطلق إلى منى وذكر أحدنا يقطر؟ فبلغ ذلك النبي ﷺ فقال: لو استقبلت من أمري ما استدبرت ما أهديت، ولولا أن معي الهدي لأحللت. وحاضت عائشة فنسكت المناسك كلها، غير أنها لم تطف بالبيت؛ فلما طهرت طافت بالبيت، قالت: يا رسول الله! تنطلقون بحجة وعمرة، وأنطلق بحجة؟! فأمر عبد الرحمن بن أبي بكر أن يخرج معها إلى التنعيم، فاعتمرت بعد الحج.»",
-    "frenchText": "Le Prophète et ses compagnons se mirent en état d'ihram pour le Hajj. Le Prophète leur ordonna de changer leur Hajj en Omra, sauf ceux qui avaient un sacrifice (comme lui). Les compagnons hésitèrent. 'Aïcha, qui avait ses menstrues, accomplit tous les rites du Hajj mais fit sa Omra de Tan'im après.",
-    "englishText": "The Prophet and his companions entered Ihram for Hajj. The Prophet ordered them to change their Hajj to Umrah, except those who had a sacrifice (like him). The companions hesitated. 'Aisha, who was menstruating, performed all the rituals of Hajj but did her Umrah from Tan'im afterwards.",
-    "narratorAr": "جابر بن عبد الله",
-    "narratorFr": "Jâbir ibn 'Abdillah",
-    "narratorEn": "Jabir ibn 'Abdullah",
-    "explanationAr": "قصة فسخ الحج إلى العمرة تبين رخصة التمتع، وأن الحائض تقضي المناسك كلها إلا الطواف حتى تطهر.",
-    "explanationFr": "L'histoire du changement du Hajj en Omra montre la concession du Tamattu', et que la femme en période de menstrues accomplit tous les rites sauf le Tawaf jusqu'à sa purification.",
-    "explanationEn": "The story of changing Hajj to Umrah shows the concession of Tamattu', and that a menstruating woman performs all rituals except Tawaf until she is purified.",
-    "dayNameAr": "باب فسخ الحج إلى العمرة",
-    "dayNameFr": "Chapitre du changement du Hajj en Omra",
-    "dayNameEn": "Chapter of Changing Hajj to Umrah"
-  },
+
   {
     "id": 236,
     "arabicText": "عن جابر قال: «قدمنا مع رسول الله ﷺ ونحن نقول: لبيك بالحج، فأمرنا رسول الله ﷺ فجعلناها عمرة».",
