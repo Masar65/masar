@@ -178,7 +178,7 @@
     "sourceAr": "عمر بن الخطاب رضي الله عنه",
     "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
     "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
-  }
+  },
   {
     "id": 21,
     "textAr": "مَنْ أَحَبَّ الدُّنْيَا وَسَرَّتْهُ، خَرَجَ حُبُّ الْآخِرَةِ مِنْ قَلْبِهِ",
@@ -448,5 +448,2795 @@
     "sourceAr": "سفيان الثوري رحمه الله",
     "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
     "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 51,
+    "textAr": "الصَّبْرُ عَلَى السُّنَّةِ خَيْرٌ مِنَ الصَّبْرِ عَلَى الْجِرَاحِ",
+    "textFr": "La patience sur la Sunna est meilleure que la patience sur les blessures.",
+    "textEn": "Patience upon the Sunnah is better than patience upon wounds.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 52,
+    "textAr": "الْعِلْمُ بِاللَّهِ تَأْدِيبٌ، وَالْعِلْمُ بِالدُّنْيَا تَعْذِيبٌ",
+    "textFr": "La connaissance d'Allah est une éducation, et la connaissance du monde est un châtiment.",
+    "textEn": "Knowledge of Allah is discipline, and knowledge of this world is torment.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 53,
+    "textAr": "مَنْ عَرَفَ اللَّهَ هَانَتْ عَلَيْهِ الْمُصِيبَاتُ",
+    "textFr": "Celui qui connaît Allah, les épreuves lui deviennent légères.",
+    "textEn": "Whoever knows Allah, calamities become easy for him.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 54,
+    "textAr": "أَكْثِرُوا ذِكْرَ اللَّهِ فِي الدُّنْيَا فَلَا تَنْسَوْهُ فِي الْقُبُورِ",
+    "textFr": "Invoquez beaucoup Allah dans ce monde, afin de ne pas L'oublier dans les tombes.",
+    "textEn": "Remember Allah often in this world, so that you do not forget Him in the graves.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 55,
+    "textAr": "إِذَا أَرَادَ اللَّهُ بِعَبْدٍ خَيْرًا فَتَحَ لَهُ بَابَ الْعَمَلِ، وَأَغْلَقَ عَنْهُ بَابَ الْجَدَلِ",
+    "textFr": "Si Allah veut du bien à un serviteur, Il lui ouvre la porte de l'action et Lui ferme la porte de la dispute.",
+    "textEn": "If Allah wants good for a servant, He opens for him the door of action and closes the door of argumentation.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 56,
+    "textAr": "الْقَلْبُ إِذَا اشْتَغَلَ بِالدُّنْيَا فَاتَتْهُ الْآخِرَةُ",
+    "textFr": "Si le cœur s'occupe de ce monde, l'au-delà lui échappe.",
+    "textEn": "If the heart is occupied with this world, the Hereafter escapes it.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 57,
+    "textAr": "لَا تَنْظُرْ إِلَى صِغَرِ الْخَطِيئَةِ، وَلَكِنِ انْظُرْ إِلَى عَظَمَةِ مَنْ عَصَيْتَ",
+    "textFr": "Ne regarde pas la petitesse du péché, mais regarde la grandeur de Celui que tu désobéis.",
+    "textEn": "Do not look at the smallness of the sin, but look at the greatness of the One you disobey.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 58,
+    "textAr": "عَجِبْتُ لِمَنْ يَبْنِي دَارًا فِي الدُّنْيَا وَيَتْرُكُ دَارًا فِي الْآخِرَةِ",
+    "textFr": "Je m'étonne de celui qui construit une maison dans ce monde et abandonne sa maison dans l'au-delà.",
+    "textEn": "I am amazed at the one who builds a house in this world and abandons his house in the Hereafter.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 59,
+    "textAr": "إِنَّ اللَّهَ إِذَا أَحَبَّ عَبْدًا ابْتَلَاهُ، وَإِذَا ابْتَلَاهُ رَزَقَهُ الصَّبْرَ، وَإِذَا رَزَقَهُ الصَّبْرَ اسْتَوْجَبَ الشُّكْرَ",
+    "textFr": "Lorsqu'Allah aime un serviteur, Il l'éprouve ; et lorsqu'Il l'éprouve, Il lui accorde la patience ; et lorsqu'Il lui accorde la patience, Il le rend digne de reconnaissance.",
+    "textEn": "When Allah loves a servant, He tests him; and when He tests him, He grants him patience; and when He grants him patience, He makes him worthy of gratitude.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 60,
+    "textAr": "السَّكِينَةُ فِي الْقَلْبِ تَأْتِي مِنَ الْيَقِينِ، وَالْيَقِينُ يَأْتِي مِنَ التَّوَكُّلِ عَلَى اللَّهِ",
+    "textFr": "La sérénité du cœur vient de la certitude, et la certitude vient de la confiance en Allah.",
+    "textEn": "Serenity in the heart comes from certainty, and certainty comes from trust in Allah.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 61,
+    "textAr": "مَنْ عَامَلَ النَّاسَ فَلَمْ يَظْلِمْهُمْ، وَحَدَّثَهُمْ فَلَمْ يَكْذِبْهُمْ، وَوَعَدَهُمْ فَلَمْ يُخْلِفْهُمْ، فَذَلِكَ مِمَّنْ كَمُلَتْ مُرُوءَتُهُ",
+    "textFr": "Celui qui traite les gens sans les opprimer, leur parle sans leur mentir et leur promet sans manquer à sa promesse, celui-là a une virilité parfaite.",
+    "textEn": "Whoever treats people without oppressing them, speaks to them without lying, and promises them without breaking his promise, that person has perfect manhood.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 62,
+    "textAr": "إِيَّاكَ وَمُجَالَسَةَ أَهْلِ الْأَهْوَاءِ، فَإِنَّهُمْ مَرْضَى الْقُلُوبِ",
+    "textFr": "Méfie-toi de la fréquentation des gens de passions, car ils ont les cœurs malades.",
+    "textEn": "Beware of sitting with the people of desires, for they have diseased hearts.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 63,
+    "textAr": "مَنْ جَاهَدَ نَفْسَهُ فِي طَاعَةِ اللَّهِ، مَلَكَهَا، وَمَنْ أَهْمَلَهَا، هَلَكَتْ",
+    "textFr": "Celui qui lutte contre son âme dans l'obéissance à Allah en devient le maître, et celui qui la néglige périt.",
+    "textEn": "Whoever strives against his soul in obedience to Allah masters it, and whoever neglects it perishes.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 64,
+    "textAr": "خَيْرُ النَّاسِ مَنْ نَفَعَ النَّاسَ، وَشَرُّهُمْ مَنْ ضَرَّ النَّاسَ",
+    "textFr": "Le meilleur des gens est celui qui est utile aux gens, et le pire est celui qui leur nuit.",
+    "textEn": "The best of people is the one who benefits people, and the worst is the one who harms them.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 65,
+    "textAr": "اللَّهُمَّ إِنَّكَ تَرَى قُلُوبَنَا مَمْلُوءَةً بِالشِّرْكِ وَالْكِبْرِ وَالنِّفَاقِ وَالرِّيَاءِ وَالسُّمْعَةِ وَالشَّكِّ فِي دِينِكَ",
+    "textFr": "Ô Allah, Tu vois nos cœurs remplis d'association, d'orgueil, d'hypocrisie, d'ostentation, de recherche de réputation et de doute dans Ta religion.",
+    "textEn": "O Allah, You see our hearts full of idolatry, pride, hypocrisy, showing-off, reputation, and doubt in Your religion.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 66,
+    "textAr": "لَا تَجْلِسُوا فَرَاغًا، فَإِنَّ الْمَوْتَ يَطْلُبُكُمْ",
+    "textFr": "Ne restez pas inactifs, car la mort vous cherche.",
+    "textEn": "Do not sit idle, for indeed death is seeking you.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 67,
+    "textAr": "الدُّنْيَا دَارُ عُبُورٍ، وَالْآخِرَةُ دَارُ قَرَارٍ، فَخُذُوا مِنْ دَارِ الْعُبُورِ لِدَارِ الْقَرَارِ",
+    "textFr": "Ce monde est une demeure de passage, et l'au-delà est une demeure d'éternité. Prenez donc de la demeure de passage pour la demeure d'éternité.",
+    "textEn": "This world is a house of passage, and the Hereafter is a house of eternity. So take from the house of passage for the house of eternity.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 68,
+    "textAr": "إِنَّمَا الدُّنْيَا ثَلَاثَةُ أَيَّامٍ: أَمْسِ فَقَدْ مَضَى، وَغَدٍ فَلَعَلَّكَ لَا تُدْرِكُهُ، وَالْيَوْمِ فَلَكَ فَاعْمَلْ",
+    "textFr": "La vie de ce monde n'est que de trois jours : hier est passé, demain tu ne l'atteindras peut-être pas, et aujourd'hui est pour toi, agis donc.",
+    "textEn": "The life of this world is only three days: yesterday has passed, tomorrow you may not reach, and today is for you, so act.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 69,
+    "textAr": "مَنْ أَحَبَّ الْآخِرَةَ تَعَبَ فِي الدُّنْيَا، وَمَنْ أَحَبَّ الدُّنْيَا تَعِبَ فِي الْآخِرَةِ",
+    "textFr": "Celui qui aime l'au-delà peine dans ce monde, et celui qui aime ce monde peine dans l'au-delà.",
+    "textEn": "Whoever loves the Hereafter toils in this world, and whoever loves this world toils in the Hereafter.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 70,
+    "textAr": "لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ",
+    "textFr": "La richesse ne consiste pas dans l'abondance des biens, mais la richesse est la richesse de l'âme.",
+    "textEn": "Wealth is not in having many possessions, but wealth is the richness of the soul.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 71,
+    "textAr": "إِذَا اسْتَيْقَنْتَ رَبَّكَ فَلَا تَهْتَمَّ بِالرِّزْقِ",
+    "textFr": "Si tu es certain de ton Seigneur, ne t'inquiète pas pour la subsistance.",
+    "textEn": "If you are certain of your Lord, do not worry about provision.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 72,
+    "textAr": "مَنْ أَصْلَحَ سَرِيرَتَهُ، أَصْلَحَ اللَّهُ عَلَانِيَتَهُ",
+    "textFr": "Celui qui améliore sa vie intérieure, Allah améliore sa vie extérieure.",
+    "textEn": "Whoever improves his inner self, Allah improves his outer self.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 73,
+    "textAr": "إِيَّاكَ وَالْغَفْلَةَ، فَإِنَّهَا تَمْنَعُكَ مِنْ ذِكْرِ اللَّهِ",
+    "textFr": "Méfie-toi de l'insouciance, car elle t'empêche de te souvenir d'Allah.",
+    "textEn": "Beware of heedlessness, for it prevents you from remembering Allah.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 74,
+    "textAr": "الْعِبَادَةُ سَبْعُونَ جُزْءًا، أَفْضَلُهَا طَلَبُ الْحَلَالِ",
+    "textFr": "L'adoration est composée de soixante-dix parts, la meilleure est la recherche du licite.",
+    "textEn": "Worship is composed of seventy parts, the best of which is seeking the lawful.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 75,
+    "textAr": "مَنْ عَرَفَ نَفْسَهُ عَرَفَ رَبَّهُ",
+    "textFr": "Celui qui connaît son âme connaît son Seigneur.",
+    "textEn": "Whoever knows his soul knows his Lord.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 76,
+    "textAr": "الصَّمْتُ سَلَامَةٌ، وَالْعَمَلُ عِبَادَةٌ، وَالْعِلْمُ حَيَاةٌ",
+    "textFr": "Le silence est sécurité, l'action est adoration, et la science est vie.",
+    "textEn": "Silence is safety, action is worship, and knowledge is life.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 77,
+    "textAr": "لَا تَحْسَبَنَّ الْخَطِيئَةَ صَغِيرَةً، فَإِنَّهَا تَزِيدُ حَتَّى تَكُونَ كَبِيرَةً",
+    "textFr": "Ne pense pas que le péché soit petit, car il augmente jusqu'à devenir grand.",
+    "textEn": "Do not think that a sin is small, for it increases until it becomes great.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 78,
+    "textAr": "إِنَّمَا يَهَابُكَ النَّاسُ عَلَى قَدْرِ هَيْبَتِكَ لِلَّهِ",
+    "textFr": "Les gens ne te craignent qu'à proportion de ta crainte d'Allah.",
+    "textEn": "People only fear you to the extent of your fear of Allah.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 79,
+    "textAr": "ذِكْرُ اللَّهِ شِفَاءُ الْقُلُوبِ، وَذِكْرُ النَّاسِ دَاءٌ",
+    "textFr": "Le rappel d'Allah est un remède pour les cœurs, et le rappel des gens est une maladie.",
+    "textEn": "The remembrance of Allah is a cure for the hearts, and the remembrance of people is a disease.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 80,
+    "textAr": "كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+    "textFr": "Sois dans ce monde comme un étranger ou un voyageur de passage.",
+    "textEn": "Be in this world as if you were a stranger or a passerby.",
+    "sourceAr": "عبد الله بن عمر رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Umar (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Umar (may Allah be pleased with them)"
+  },
+  {
+    "id": 81,
+    "textAr": "الْمُؤْمِنُ مِسْكِينٌ، وَالْمُؤْمِنُ أُخُو الْمُؤْمِنِ، وَالْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ",
+    "textFr": "Le croyant est humble, le croyant est le frère du croyant, et le croyant est sociable et apprécié.",
+    "textEn": "The believer is humble, the believer is the brother of the believer, and the believer is sociable and liked.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 82,
+    "textAr": "مَنْ أَحَبَّ أَنْ يُعْطِيَهُ اللَّهُ الْعِلْمَ وَلَمْ يَعْمَلْ بِهِ، كَانَ كَالْحِمَارِ يَحْمِلُ أَسْفَارًا",
+    "textFr": "Celui qui aime recevoir la science d'Allah sans agir selon elle, est comme l'âne qui porte des livres.",
+    "textEn": "Whoever loves to receive knowledge from Allah but does not act upon it, is like a donkey carrying books.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 83,
+    "textAr": "الْإِخْلَاصُ سِرٌّ بَيْنَ اللَّهِ وَبَيْنَ عَبْدِهِ، لَا يَعْلَمُهُ مَلَكٌ فَيَكْتُبَهُ، وَلَا شَيْطَانٌ فَيُفْسِدَهُ",
+    "textFr": "La sincérité est un secret entre Allah et Son serviteur, qu'aucun ange ne connaît pour l'écrire, ni aucun démon pour le corrompre.",
+    "textEn": "Sincerity is a secret between Allah and His servant, which no angel knows to write, nor any devil to corrupt.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 84,
+    "textAr": "الْحَيَاءُ رَاحَةُ الْقَلْبِ، وَالْكِبْرُ عَذَابُ النَّفْسِ",
+    "textFr": "La pudeur est le repos du cœur, et l'orgueil est le châtiment de l'âme.",
+    "textEn": "Modesty is the rest of the heart, and pride is the torment of the soul.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 85,
+    "textAr": "لَا تَسُبَّنَّ أَحَدًا، فَإِنَّ السَّبَّ يَرُدُّ عَلَى صَاحِبِهِ",
+    "textFr": "N'insulte jamais personne, car l'insulte retombe sur son auteur.",
+    "textEn": "Never insult anyone, for the insult returns to its author.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 86,
+    "textAr": "السَّعَادَةُ لَيْسَتْ فِي كَثْرَةِ الْمَالِ، وَلَكِنْ فِي طُمَأْنِينَةِ الْقَلْبِ",
+    "textFr": "Le bonheur ne réside pas dans l'abondance des biens, mais dans la sérénité du cœur.",
+    "textEn": "Happiness is not in having much wealth, but in the tranquility of the heart.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 87,
+    "textAr": "إِذَا رَأَيْتَ الرَّجُلَ يُحِبُّ الذِّكْرَ فَاعْلَمْ أَنَّ اللَّهَ يُحِبُّهُ",
+    "textFr": "Si tu vois un homme aimer le rappel d'Allah, sache qu'Allah l'aime.",
+    "textEn": "If you see a man loving the remembrance of Allah, know that Allah loves him.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 88,
+    "textAr": "مَنْ أَحَبَّ الْعُزْلَةَ فَقَدْ سَلِمَ مِنَ النَّاسِ، وَمَنْ سَلِمَ مِنَ النَّاسِ سَلِمَ دِينُهُ",
+    "textFr": "Celui qui aime la solitude s'est préservé des gens, et celui qui s'est préservé des gens a préservé sa religion.",
+    "textEn": "Whoever loves solitude has saved himself from people, and whoever saves himself from people has saved his religion.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 89,
+    "textAr": "الْعَمَلُ بِالسُّنَّةِ رَأْسُ الْحِكْمَةِ",
+    "textFr": "Agir selon la Sunna est la tête de la sagesse.",
+    "textEn": "Acting upon the Sunnah is the head of wisdom.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 90,
+    "textAr": "خَالِطُوا النَّاسَ بِأَخْلَاقِ الْإِسْلَامِ، وَاعْتَزِلُوا عَنْ أَهْلِ الْبِدَعِ",
+    "textFr": "Fréquentez les gens avec les caractères de l'Islam, et éloignez-vous des gens de l'innovation.",
+    "textEn": "Mix with people with the manners of Islam, and keep away from the people of innovation.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 91,
+    "textAr": "مَنْ كَثُرَ صَمْتُهُ كَثُرَ وَقَارُهُ، وَمَنْ كَثُرَ كَلَامُهُ كَثُرَ سَقَطُهُ",
+    "textFr": "Celui dont le silence est abondant, sa dignité est grande ; et celui dont les paroles sont nombreuses, ses erreurs sont nombreuses.",
+    "textEn": "Whoever's silence is abundant, his dignity is great; and whoever's speech is abundant, his mistakes are many.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 92,
+    "textAr": "الْعِلْمُ يَنْقُصُ بِالتَّرْكِ، وَيَزِيدُ بِالْعَمَلِ",
+    "textFr": "La science diminue par l'abandon et augmente par la pratique.",
+    "textEn": "Knowledge decreases by abandonment and increases by practice.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 93,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الْخَفِيَّ",
+    "textFr": "Allah aime le serviteur pieux, riche (de cœur) et discret.",
+    "textEn": "Allah loves the pious servant, rich (of heart) and discreet.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 94,
+    "textAr": "لَا تَرْكَنُوا إِلَى الدُّنْيَا، فَإِنَّهَا لَيْسَتْ بِدَارِ قَرَارٍ",
+    "textFr": "Ne vous appuyez pas sur ce monde, car il n'est pas une demeure d'éternité.",
+    "textEn": "Do not rely on this world, for it is not a place of permanence.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 95,
+    "textAr": "إِنَّ الْإِيمَانَ يَبْدَأُ غَرِيبًا وَيَعُودُ غَرِيبًا",
+    "textFr": "La foi commence étrangère et reviendra étrangère.",
+    "textEn": "Faith begins as a stranger and will return as a stranger.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 96,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَخْشَى النَّاسَ فِي اللَّهِ، وَلَا يَخْشَى اللَّهَ فِي النَّاسِ",
+    "textFr": "Ne sois pas de ceux qui craignent les gens au sujet d'Allah, et ne craignent pas Allah au sujet des gens.",
+    "textEn": "Do not be among those who fear people regarding Allah, and do not fear Allah regarding people.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 97,
+    "textAr": "مَنْ أَطَالَ الْأَمَلَ سَاءَ الْعَمَلُ",
+    "textFr": "Celui dont les espoirs sont longs, ses actions se détériorent.",
+    "textEn": "Whoever has long hopes, his deeds become bad.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 98,
+    "textAr": "إِنَّ اللَّهَ إِذَا أَحَبَّ عَبْدًا ابْتَلَاهُ وَإِذَا ابْتَلَاهُ صَبَّرَهُ",
+    "textFr": "Lorsqu'Allah aime un serviteur, Il l'éprouve, et lorsqu'Il l'éprouve, Il le rend patient.",
+    "textEn": "When Allah loves a servant, He tests him, and when He tests him, He makes him patient.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 99,
+    "textAr": "الْقَنَاعَةُ كَنْزٌ لَا يَفْنَى",
+    "textFr": "La suffisance est un trésor qui ne s'épuise pas.",
+    "textEn": "Contentment is a treasure that never perishes.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 100,
+    "textAr": "رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ وَلَمْ يَتَعَدَّ طَوْرَهُ",
+    "textFr": "Qu'Allah fasse miséricorde à un homme qui connaît sa valeur et ne dépasse pas sa mesure.",
+    "textEn": "May Allah have mercy on a man who knows his worth and does not exceed his limits.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 101,
+    "textAr": "الصَّبْرُ عَلَى السُّنَّةِ خَيْرٌ مِنَ الصَّبْرِ عَلَى الْجِرَاحِ",
+    "textFr": "La patience sur la Sunna est meilleure que la patience sur les blessures.",
+    "textEn": "Patience upon the Sunnah is better than patience upon wounds.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 102,
+    "textAr": "الْعِلْمُ بِاللَّهِ تَأْدِيبٌ، وَالْعِلْمُ بِالدُّنْيَا تَعْذِيبٌ",
+    "textFr": "La connaissance d'Allah est une éducation, et la connaissance du monde est un châtiment.",
+    "textEn": "Knowledge of Allah is discipline, and knowledge of this world is torment.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 103,
+    "textAr": "مَنْ عَرَفَ اللَّهَ هَانَتْ عَلَيْهِ الْمُصِيبَاتُ",
+    "textFr": "Celui qui connaît Allah, les épreuves lui deviennent légères.",
+    "textEn": "Whoever knows Allah, calamities become easy for him.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 104,
+    "textAr": "أَكْثِرُوا ذِكْرَ اللَّهِ فِي الدُّنْيَا فَلَا تَنْسَوْهُ فِي الْقُبُورِ",
+    "textFr": "Invoquez beaucoup Allah dans ce monde, afin de ne pas L'oublier dans les tombes.",
+    "textEn": "Remember Allah often in this world, so that you do not forget Him in the graves.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 105,
+    "textAr": "إِذَا أَرَادَ اللَّهُ بِعَبْدٍ خَيْرًا فَتَحَ لَهُ بَابَ الْعَمَلِ، وَأَغْلَقَ عَنْهُ بَابَ الْجَدَلِ",
+    "textFr": "Si Allah veut du bien à un serviteur, Il lui ouvre la porte de l'action et Lui ferme la porte de la dispute.",
+    "textEn": "If Allah wants good for a servant, He opens for him the door of action and closes the door of argumentation.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 106,
+    "textAr": "الْقَلْبُ إِذَا اشْتَغَلَ بِالدُّنْيَا فَاتَتْهُ الْآخِرَةُ",
+    "textFr": "Si le cœur s'occupe de ce monde, l'au-delà lui échappe.",
+    "textEn": "If the heart is occupied with this world, the Hereafter escapes it.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 107,
+    "textAr": "لَا تَنْظُرْ إِلَى صِغَرِ الْخَطِيئَةِ، وَلَكِنِ انْظُرْ إِلَى عَظَمَةِ مَنْ عَصَيْتَ",
+    "textFr": "Ne regarde pas la petitesse du péché, mais regarde la grandeur de Celui que tu désobéis.",
+    "textEn": "Do not look at the smallness of the sin, but look at the greatness of the One you disobey.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 108,
+    "textAr": "عَجِبْتُ لِمَنْ يَبْنِي دَارًا فِي الدُّنْيَا وَيَتْرُكُ دَارًا فِي الْآخِرَةِ",
+    "textFr": "Je m'étonne de celui qui construit une maison dans ce monde et abandonne sa maison dans l'au-delà.",
+    "textEn": "I am amazed at the one who builds a house in this world and abandons his house in the Hereafter.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 109,
+    "textAr": "إِنَّ اللَّهَ إِذَا أَحَبَّ عَبْدًا ابْتَلَاهُ، وَإِذَا ابْتَلَاهُ رَزَقَهُ الصَّبْرَ، وَإِذَا رَزَقَهُ الصَّبْرَ اسْتَوْجَبَ الشُّكْرَ",
+    "textFr": "Lorsqu'Allah aime un serviteur, Il l'éprouve ; et lorsqu'Il l'éprouve, Il lui accorde la patience ; et lorsqu'Il lui accorde la patience, Il le rend digne de reconnaissance.",
+    "textEn": "When Allah loves a servant, He tests him; and when He tests him, He grants him patience; and when He grants him patience, He makes him worthy of gratitude.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 110,
+    "textAr": "السَّكِينَةُ فِي الْقَلْبِ تَأْتِي مِنَ الْيَقِينِ، وَالْيَقِينُ يَأْتِي مِنَ التَّوَكُّلِ عَلَى اللَّهِ",
+    "textFr": "La sérénité du cœur vient de la certitude, et la certitude vient de la confiance en Allah.",
+    "textEn": "Serenity in the heart comes from certainty, and certainty comes from trust in Allah.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 111,
+    "textAr": "مَنْ عَامَلَ النَّاسَ فَلَمْ يَظْلِمْهُمْ، وَحَدَّثَهُمْ فَلَمْ يَكْذِبْهُمْ، وَوَعَدَهُمْ فَلَمْ يُخْلِفْهُمْ، فَذَلِكَ مِمَّنْ كَمُلَتْ مُرُوءَتُهُ",
+    "textFr": "Celui qui traite les gens sans les opprimer, leur parle sans leur mentir et leur promet sans manquer à sa promesse, celui-là a une virilité parfaite.",
+    "textEn": "Whoever treats people without oppressing them, speaks to them without lying, and promises them without breaking his promise, that person has perfect manhood.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 112,
+    "textAr": "إِيَّاكَ وَمُجَالَسَةَ أَهْلِ الْأَهْوَاءِ، فَإِنَّهُمْ مَرْضَى الْقُلُوبِ",
+    "textFr": "Méfie-toi de la fréquentation des gens de passions, car ils ont les cœurs malades.",
+    "textEn": "Beware of sitting with the people of desires, for they have diseased hearts.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 113,
+    "textAr": "مَنْ جَاهَدَ نَفْسَهُ فِي طَاعَةِ اللَّهِ، مَلَكَهَا، وَمَنْ أَهْمَلَهَا، هَلَكَتْ",
+    "textFr": "Celui qui lutte contre son âme dans l'obéissance à Allah en devient le maître, et celui qui la néglige périt.",
+    "textEn": "Whoever strives against his soul in obedience to Allah masters it, and whoever neglects it perishes.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 114,
+    "textAr": "خَيْرُ النَّاسِ مَنْ نَفَعَ النَّاسَ، وَشَرُّهُمْ مَنْ ضَرَّ النَّاسَ",
+    "textFr": "Le meilleur des gens est celui qui est utile aux gens, et le pire est celui qui leur nuit.",
+    "textEn": "The best of people is the one who benefits people, and the worst is the one who harms them.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 115,
+    "textAr": "الدُّنْيَا دَارُ عُبُورٍ، وَالْآخِرَةُ دَارُ قَرَارٍ، فَخُذُوا مِنْ دَارِ الْعُبُورِ لِدَارِ الْقَرَارِ",
+    "textFr": "Ce monde est une demeure de passage, et l'au-delà est une demeure d'éternité. Prenez donc de la demeure de passage pour la demeure d'éternité.",
+    "textEn": "This world is a house of passage, and the Hereafter is a house of eternity. So take from the house of passage for the house of eternity.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 116,
+    "textAr": "إِنَّمَا الدُّنْيَا ثَلَاثَةُ أَيَّامٍ: أَمْسِ فَقَدْ مَضَى، وَغَدٍ فَلَعَلَّكَ لَا تُدْرِكُهُ، وَالْيَوْمِ فَلَكَ فَاعْمَلْ",
+    "textFr": "La vie de ce monde n'est que de trois jours : hier est passé, demain tu ne l'atteindras peut-être pas, et aujourd'hui est pour toi, agis donc.",
+    "textEn": "The life of this world is only three days: yesterday has passed, tomorrow you may not reach, and today is for you, so act.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 117,
+    "textAr": "مَنْ أَحَبَّ الْآخِرَةَ تَعَبَ فِي الدُّنْيَا، وَمَنْ أَحَبَّ الدُّنْيَا تَعِبَ فِي الْآخِرَةِ",
+    "textFr": "Celui qui aime l'au-delà peine dans ce monde, et celui qui aime ce monde peine dans l'au-delà.",
+    "textEn": "Whoever loves the Hereafter toils in this world, and whoever loves this world toils in the Hereafter.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 118,
+    "textAr": "لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ",
+    "textFr": "La richesse ne consiste pas dans l'abondance des biens, mais la richesse est la richesse de l'âme.",
+    "textEn": "Wealth is not in having many possessions, but wealth is the richness of the soul.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 119,
+    "textAr": "إِذَا اسْتَيْقَنْتَ رَبَّكَ فَلَا تَهْتَمَّ بِالرِّزْقِ",
+    "textFr": "Si tu es certain de ton Seigneur, ne t'inquiète pas pour la subsistance.",
+    "textEn": "If you are certain of your Lord, do not worry about provision.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 120,
+    "textAr": "مَنْ أَصْلَحَ سَرِيرَتَهُ، أَصْلَحَ اللَّهُ عَلَانِيَتَهُ",
+    "textFr": "Celui qui améliore sa vie intérieure, Allah améliore sa vie extérieure.",
+    "textEn": "Whoever improves his inner self, Allah improves his outer self.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 121,
+    "textAr": "إِيَّاكَ وَالْغَفْلَةَ، فَإِنَّهَا تَمْنَعُكَ مِنْ ذِكْرِ اللَّهِ",
+    "textFr": "Méfie-toi de l'insouciance, car elle t'empêche de te souvenir d'Allah.",
+    "textEn": "Beware of heedlessness, for it prevents you from remembering Allah.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 122,
+    "textAr": "الْعِبَادَةُ سَبْعُونَ جُزْءًا، أَفْضَلُهَا طَلَبُ الْحَلَالِ",
+    "textFr": "L'adoration est composée de soixante-dix parts, la meilleure est la recherche du licite.",
+    "textEn": "Worship is composed of seventy parts, the best of which is seeking the lawful.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 123,
+    "textAr": "مَنْ عَرَفَ نَفْسَهُ عَرَفَ رَبَّهُ",
+    "textFr": "Celui qui connaît son âme connaît son Seigneur.",
+    "textEn": "Whoever knows his soul knows his Lord.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 124,
+    "textAr": "الصَّمْتُ سَلَامَةٌ، وَالْعَمَلُ عِبَادَةٌ، وَالْعِلْمُ حَيَاةٌ",
+    "textFr": "Le silence est sécurité, l'action est adoration, et la science est vie.",
+    "textEn": "Silence is safety, action is worship, and knowledge is life.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 125,
+    "textAr": "لَا تَحْسَبَنَّ الْخَطِيئَةَ صَغِيرَةً، فَإِنَّهَا تَزِيدُ حَتَّى تَكُونَ كَبِيرَةً",
+    "textFr": "Ne pense pas que le péché soit petit, car il augmente jusqu'à devenir grand.",
+    "textEn": "Do not think that a sin is small, for it increases until it becomes great.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 126,
+    "textAr": "إِنَّمَا يَهَابُكَ النَّاسُ عَلَى قَدْرِ هَيْبَتِكَ لِلَّهِ",
+    "textFr": "Les gens ne te craignent qu'à proportion de ta crainte d'Allah.",
+    "textEn": "People only fear you to the extent of your fear of Allah.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 127,
+    "textAr": "ذِكْرُ اللَّهِ شِفَاءُ الْقُلُوبِ، وَذِكْرُ النَّاسِ دَاءٌ",
+    "textFr": "Le rappel d'Allah est un remède pour les cœurs, et le rappel des gens est une maladie.",
+    "textEn": "The remembrance of Allah is a cure for the hearts, and the remembrance of people is a disease.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 128,
+    "textAr": "كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+    "textFr": "Sois dans ce monde comme un étranger ou un voyageur de passage.",
+    "textEn": "Be in this world as if you were a stranger or a passerby.",
+    "sourceAr": "عبد الله بن عمر رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Umar (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Umar (may Allah be pleased with them)"
+  },
+  {
+    "id": 129,
+    "textAr": "الْمُؤْمِنُ مِسْكِينٌ، وَالْمُؤْمِنُ أُخُو الْمُؤْمِنِ، وَالْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ",
+    "textFr": "Le croyant est humble, le croyant est le frère du croyant, et le croyant est sociable et apprécié.",
+    "textEn": "The believer is humble, the believer is the brother of the believer, and the believer is sociable and liked.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 130,
+    "textAr": "مَنْ أَحَبَّ أَنْ يُعْطِيَهُ اللَّهُ الْعِلْمَ وَلَمْ يَعْمَلْ بِهِ، كَانَ كَالْحِمَارِ يَحْمِلُ أَسْفَارًا",
+    "textFr": "Celui qui aime recevoir la science d'Allah sans agir selon elle, est comme l'âne qui porte des livres.",
+    "textEn": "Whoever loves to receive knowledge from Allah but does not act upon it, is like a donkey carrying books.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 131,
+    "textAr": "الْإِخْلَاصُ سِرٌّ بَيْنَ اللَّهِ وَبَيْنَ عَبْدِهِ، لَا يَعْلَمُهُ مَلَكٌ فَيَكْتُبَهُ، وَلَا شَيْطَانٌ فَيُفْسِدَهُ",
+    "textFr": "La sincérité est un secret entre Allah et Son serviteur, qu'aucun ange ne connaît pour l'écrire, ni aucun démon pour le corrompre.",
+    "textEn": "Sincerity is a secret between Allah and His servant, which no angel knows to write, nor any devil to corrupt.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 132,
+    "textAr": "الْحَيَاءُ رَاحَةُ الْقَلْبِ، وَالْكِبْرُ عَذَابُ النَّفْسِ",
+    "textFr": "La pudeur est le repos du cœur, et l'orgueil est le châtiment de l'âme.",
+    "textEn": "Modesty is the rest of the heart, and pride is the torment of the soul.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 133,
+    "textAr": "لَا تَسُبَّنَّ أَحَدًا، فَإِنَّ السَّبَّ يَرُدُّ عَلَى صَاحِبِهِ",
+    "textFr": "N'insulte jamais personne, car l'insulte retombe sur son auteur.",
+    "textEn": "Never insult anyone, for the insult returns to its author.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 134,
+    "textAr": "السَّعَادَةُ لَيْسَتْ فِي كَثْرَةِ الْمَالِ، وَلَكِنْ فِي طُمَأْنِينَةِ الْقَلْبِ",
+    "textFr": "Le bonheur ne réside pas dans l'abondance des biens, mais dans la sérénité du cœur.",
+    "textEn": "Happiness is not in having much wealth, but in the tranquility of the heart.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 135,
+    "textAr": "إِذَا رَأَيْتَ الرَّجُلَ يُحِبُّ الذِّكْرَ فَاعْلَمْ أَنَّ اللَّهَ يُحِبُّهُ",
+    "textFr": "Si tu vois un homme aimer le rappel d'Allah, sache qu'Allah l'aime.",
+    "textEn": "If you see a man loving the remembrance of Allah, know that Allah loves him.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 136,
+    "textAr": "مَنْ أَحَبَّ الْعُزْلَةَ فَقَدْ سَلِمَ مِنَ النَّاسِ، وَمَنْ سَلِمَ مِنَ النَّاسِ سَلِمَ دِينُهُ",
+    "textFr": "Celui qui aime la solitude s'est préservé des gens, et celui qui s'est préservé des gens a préservé sa religion.",
+    "textEn": "Whoever loves solitude has saved himself from people, and whoever saves himself from people has saved his religion.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 137,
+    "textAr": "الْعَمَلُ بِالسُّنَّةِ رَأْسُ الْحِكْمَةِ",
+    "textFr": "Agir selon la Sunna est la tête de la sagesse.",
+    "textEn": "Acting upon the Sunnah is the head of wisdom.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 138,
+    "textAr": "خَالِطُوا النَّاسَ بِأَخْلَاقِ الْإِسْلَامِ، وَاعْتَزِلُوا عَنْ أَهْلِ الْبِدَعِ",
+    "textFr": "Fréquentez les gens avec les caractères de l'Islam, et éloignez-vous des gens de l'innovation.",
+    "textEn": "Mix with people with the manners of Islam, and keep away from the people of innovation.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 139,
+    "textAr": "مَنْ كَثُرَ صَمْتُهُ كَثُرَ وَقَارُهُ، وَمَنْ كَثُرَ كَلَامُهُ كَثُرَ سَقَطُهُ",
+    "textFr": "Celui dont le silence est abondant, sa dignité est grande ; et celui dont les paroles sont nombreuses, ses erreurs sont nombreuses.",
+    "textEn": "Whoever's silence is abundant, his dignity is great; and whoever's speech is abundant, his mistakes are many.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 140,
+    "textAr": "الْعِلْمُ يَنْقُصُ بِالتَّرْكِ، وَيَزِيدُ بِالْعَمَلِ",
+    "textFr": "La science diminue par l'abandon et augmente par la pratique.",
+    "textEn": "Knowledge decreases by abandonment and increases by practice.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 141,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الْخَفِيَّ",
+    "textFr": "Allah aime le serviteur pieux, riche (de cœur) et discret.",
+    "textEn": "Allah loves the pious servant, rich (of heart) and discreet.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 142,
+    "textAr": "لَا تَرْكَنُوا إِلَى الدُّنْيَا، فَإِنَّهَا لَيْسَتْ بِدَارِ قَرَارٍ",
+    "textFr": "Ne vous appuyez pas sur ce monde, car il n'est pas une demeure d'éternité.",
+    "textEn": "Do not rely on this world, for it is not a place of permanence.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 143,
+    "textAr": "إِنَّ الْإِيمَانَ يَبْدَأُ غَرِيبًا وَيَعُودُ غَرِيبًا",
+    "textFr": "La foi commence étrangère et reviendra étrangère.",
+    "textEn": "Faith begins as a stranger and will return as a stranger.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 144,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَخْشَى النَّاسَ فِي اللَّهِ، وَلَا يَخْشَى اللَّهَ فِي النَّاسِ",
+    "textFr": "Ne sois pas de ceux qui craignent les gens au sujet d'Allah, et ne craignent pas Allah au sujet des gens.",
+    "textEn": "Do not be among those who fear people regarding Allah, and do not fear Allah regarding people.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 145,
+    "textAr": "مَنْ أَطَالَ الْأَمَلَ سَاءَ الْعَمَلُ",
+    "textFr": "Celui dont les espoirs sont longs, ses actions se détériorent.",
+    "textEn": "Whoever has long hopes, his deeds become bad.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 146,
+    "textAr": "إِنَّ اللَّهَ إِذَا أَحَبَّ عَبْدًا ابْتَلَاهُ وَإِذَا ابْتَلَاهُ صَبَّرَهُ",
+    "textFr": "Lorsqu'Allah aime un serviteur, Il l'éprouve, et lorsqu'Il l'éprouve, Il le rend patient.",
+    "textEn": "When Allah loves a servant, He tests him, and when He tests him, He makes him patient.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 147,
+    "textAr": "الْقَنَاعَةُ كَنْزٌ لَا يَفْنَى",
+    "textFr": "La suffisance est un trésor qui ne s'épuise pas.",
+    "textEn": "Contentment is a treasure that never perishes.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 148,
+    "textAr": "رَحِمَ اللَّهُ امْرَأً عَرَفَ قَدْرَهُ وَلَمْ يَتَعَدَّ طَوْرَهُ",
+    "textFr": "Qu'Allah fasse miséricorde à un homme qui connaît sa valeur et ne dépasse pas sa mesure.",
+    "textEn": "May Allah have mercy on a man who knows his worth and does not exceed his limits.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 149,
+    "textAr": "مَنْ خَافَ اللَّهَ لَمْ يَضُرَّهُ أَحَدٌ، وَمَنْ خَافَ غَيْرَ اللَّهِ لَمْ يَنْفَعْهُ أَحَدٌ",
+    "textFr": "Celui qui craint Allah, personne ne lui nuit ; et celui qui craint autre qu'Allah, personne ne lui profite.",
+    "textEn": "Whoever fears Allah, no one will harm him; and whoever fears other than Allah, no one will benefit him.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 150,
+    "textAr": "إِيَّاكَ وَالرِّيَاءَ، فَإِنَّهُ شِرْكٌ أَصْغَرُ",
+    "textFr": "Méfie-toi de l'ostentation, car c'est un polythéisme mineur.",
+    "textEn": "Beware of showing off, for it is minor polytheism.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 151,
+    "textAr": "خَلَقَ اللَّهُ الْمَلَائِكَةَ عُقُولًا بِلَا شَهْوَةٍ، وَخَلَقَ الْبَهَائِمَ شَهْوَةً بِلَا عُقُولٍ، وَخَلَقَ ابْنَ آدَمَ وَرَكَّبَ فِيهِ الْعَقْلَ وَالشَّهْوَةَ، فَمَنْ غَلَبَ عَقْلُهُ شَهْوَتَهُ الْتَحَقَ بِالْمَلَائِكَةِ، وَمَنْ غَلَبَتْ شَهْوَتُهُ عَقْلَهُ الْتَحَقَ بِالْبَهَائِمِ",
+    "textFr": "Allah a créé les anges avec des intelligences sans passions, et a créé les bêtes avec des passions sans intelligences, et a créé le fils d'Adam en y plaçant l'intelligence et la passion. Celui dont l'intelligence domine sa passion rejoint les anges, et celui dont la passion domine son intelligence rejoint les bêtes.",
+    "textEn": "Allah created the angels with intellects without desires, and created the beasts with desires without intellects, and created the son of Adam combining intellect and desire. Whoever's intellect overcomes his desire joins the angels, and whoever's desire overcomes his intellect joins the beasts.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 152,
+    "textAr": "مَا عَالَجْتُ شَيْئًا أَشَدَّ عَلَيَّ مِنْ نَفْسِي، مَرَّةً لِي وَمَرَّةً عَلَيَّ",
+    "textFr": "Je n'ai rien combattu de plus difficile que mon âme, parfois elle est pour moi et parfois contre moi.",
+    "textEn": "I have not fought anything more difficult than my soul, sometimes it is for me and sometimes against me.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 153,
+    "textAr": "رَحِمَ اللَّهُ عَبْدًا قَالَ لِنَفْسِهِ : أَلَسْتِ صَاحِبَةَ كَذَا ؟ أَلَسْتِ صَاحِبَةَ كَذَا ؟ ثُمَّ ذَمَّهَا، ثُمَّ خَطَمَهَا، ثُمَّ أَلْزَمَهَا كِتَابَ اللَّهِ تَعَالَى فَكَانَ لَهَا قَائِدًا",
+    "textFr": "Qu'Allah fasse miséricorde à un serviteur qui dit à son âme : N'es-tu pas celle qui a fait ceci et cela ? Puis il la blâme, puis il la bride, puis il l'oblige à suivre le Livre d'Allah et en fait son guide.",
+    "textEn": "May Allah have mercy on a servant who says to his soul: Are you not the one who did this and that? Then he blames it, then he bridles it, then he forces it to follow the Book of Allah and makes it his guide.",
+    "sourceAr": "مالك بن دينار رحمه الله",
+    "sourceFr": "Mâlik ibn Dînâr (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Mâlik ibn Dînâr (may Allah have mercy on him)"
+  },
+  {
+    "id": 154,
+    "textAr": "اسْتَعِنْ عَلَى سَيْرِكَ إِلَى اللَّهِ بِتَرْكِ مَنْ شَغَلَكَ عَنِ اللَّهِ، وَلَيْسَ بِشَاغِلٍ يَشْغَلُكَ عَنِ اللَّهِ كَنَفْسِكَ الَّتِي هِيَ بَيْنَ جَنْبَيْكَ",
+    "textFr": "Aide-toi dans ta marche vers Allah en abandonnant ce qui te distrait de Lui, et il n'y a pas de distraction plus grande que ton âme qui est entre tes flancs.",
+    "textEn": "Seek help in your journey to Allah by abandoning what distracts you from Him, and there is no greater distraction than your own soul which is between your sides.",
+    "sourceAr": "أبو بكر الوراق رحمه الله",
+    "sourceFr": "Abû Bakr al-Warrâq (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Abû Bakr al-Warrâq (may Allah have mercy on him)"
+  },
+  {
+    "id": 155,
+    "textAr": "مَنْ أَعَزَّ نَفْسَهُ أَذَلَّ دِينَهُ، وَمَنْ أَذَلَّ نَفْسَهُ أَعَزَّ دِينَهُ",
+    "textFr": "Celui qui honore son âme avilit sa religion, et celui qui avilit son âme honore sa religion.",
+    "textEn": "Whoever honors his soul debases his religion, and whoever debases his soul honors his religion.",
+    "sourceAr": "مجاهد رحمه الله",
+    "sourceFr": "Mujâhid (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Mujâhid (may Allah have mercy on him)"
+  },
+  {
+    "id": 156,
+    "textAr": "الزُّهْدُ فِي الدُّنْيَا هُوَ الزُّهْدُ فِي النَّاسِ، وَأَوَّلُ ذَلِكَ زُهْدُكَ فِي نَفْسِكَ",
+    "textFr": "L'ascèse dans ce monde consiste à se détacher des gens, et le commencement de cela est de te détacher de toi-même.",
+    "textEn": "Asceticism in this world is detachment from people, and the beginning of that is detachment from yourself.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 157,
+    "textAr": "لَا يَفْقَهُ الرَّجُلُ كُلَّ الْفِقْهِ حَتَّى يَرَى النَّاسَ فِي جَنْبِ اللَّهِ أَمْثَالَ الْأَبَاعِرِ، ثُمَّ يَرْجِعَ إِلَى نَفْسِهِ فَيَكُونَ لَهَا أَحْقَرَ حَاقِرٍ",
+    "textFr": "Un homme n'acquiert pas une pleine compréhension de la religion jusqu'à ce qu'il considère les gens, auprès d'Allah, comme des chameaux, puis qu'il revienne à lui-même et se considère comme le plus insignifiant.",
+    "textEn": "A man does not gain full understanding of religion until he considers people, in the sight of Allah, as camels, and then returns to himself and considers himself the most insignificant.",
+    "sourceAr": "خالد بن معدان رحمه الله",
+    "sourceFr": "Khâlid ibn Ma‘dân (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Khâlid ibn Ma‘dân (may Allah have mercy on him)"
+  },
+  {
+    "id": 158,
+    "textAr": "رَحِمَ اللَّهُ عَبْدًا وَقَفَ عِنْدَ هَمِّهِ، فَإِنْ كَانَ لِلَّهِ مَضَى، وَإِنْ كَانَ لِغَيْرِهِ تَأَخَّرَ",
+    "textFr": "Qu'Allah fasse miséricorde à un serviteur qui s'arrête devant son souci : s'il est pour Allah, il avance ; s'il est pour autre chose, il recule.",
+    "textEn": "May Allah have mercy on a servant who pauses at his concern: if it is for Allah, he proceeds; if it is for other than Him, he retreats.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 159,
+    "textAr": "لَمَّا نَظَرْتُ إِلَى أَهْلِ عَرَفَاتٍ ظَنَنْتُ أَنَّهُمْ قَدْ غُفِرَ لَهُمْ، لَوْلَا أَنَّنِي كُنْتُ فِيهِمْ",
+    "textFr": "Lorsque j'ai regardé les gens de ‘Arafât, j'ai pensé qu'ils avaient tous été pardonnés, n'eût été que j'étais parmi eux.",
+    "textEn": "When I looked at the people of ‘Arafât, I thought they had all been forgiven, were it not that I was among them.",
+    "sourceAr": "بكر بن عبد الله المزني رحمه الله",
+    "sourceFr": "Bakr ibn ‘Abd Allâh al-Muzanî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Bakr ibn ‘Abd Allâh al-Muzanî (may Allah have mercy on him)"
+  },
+  {
+    "id": 160,
+    "textAr": "إِنِّي لَأَجِدُ مِائَةَ خَصْلَةٍ مِنْ خِصَالِ الْخَيْرِ، مَا أَعْلَمُ أَنَّ فِي نَفْسِي مِنْهَا وَاحِدَةً",
+    "textFr": "Je trouve cent qualités du bien, et je ne sais si mon âme en possède une seule.",
+    "textEn": "I find one hundred qualities of goodness, and I do not know if my soul possesses a single one of them.",
+    "sourceAr": "يونس بن عبيد رحمه الله",
+    "sourceFr": "Yûnus ibn ‘Ubayd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Yûnus ibn ‘Ubayd (may Allah have mercy on him)"
+  },
+  {
+    "id": 161,
+    "textAr": "مَا زَالَتِ التَّقْوَى بِالْمُتَّقِينَ حَتَّى تَرَكُوا كَثِيرًا مِنَ الْحَلَالِ مَخَافَةَ الْحَرَامِ",
+    "textFr": "La piété n'a cessé d'habiter les pieux jusqu'à ce qu'ils aient abandonné beaucoup de choses licites par crainte de l'illicite.",
+    "textEn": "Piety has continued to dwell in the pious until they abandoned much of the lawful for fear of the unlawful.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 162,
+    "textAr": "مَا زِلْتُ أَقُودُ نَفْسِي إِلَى اللَّهِ وَهِيَ تَبْكِي، حَتَّى سُقْتُهَا وَهِيَ تَضْحَكُ",
+    "textFr": "Je n'ai cessé de conduire mon âme vers Allah alors qu'elle pleurait, jusqu'à ce que je la conduise alors qu'elle rit.",
+    "textEn": "I kept leading my soul to Allah while it was crying, until I led it while it was laughing.",
+    "sourceAr": "أبو يزيد البسطامي رحمه الله",
+    "sourceFr": "Abû Yazîd al-Bistâmî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Abû Yazîd al-Bistâmî (may Allah have mercy on him)"
+  },
+  {
+    "id": 163,
+    "textAr": "مِنْ عَلَامَةِ إِعْرَاضِ اللَّهِ عَنِ الْعَبْدِ أَنْ يَجْعَلَ شُغْلَهُ فِيمَا لَا يَعْنِيهِ",
+    "textFr": "Parmi les signes qu'Allah se détourne d'un serviteur, c'est qu'Il lui fasse son occupation de ce qui ne le concerne pas.",
+    "textEn": "Among the signs that Allah has turned away from a servant is that He makes his occupation that which does not concern him.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 164,
+    "textAr": "مَنِ اشْتَغَلَ بِالْفُضُولِ حُرِمَ الْوَرَعَ",
+    "textFr": "Celui qui s'occupe des choses superflues est privé de la scrupulosité.",
+    "textEn": "Whoever occupies himself with superfluous things is deprived of scrupulousness.",
+    "sourceAr": "سهل رحمه الله",
+    "sourceFr": "Sahl (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sahl (may Allah have mercy on him)"
+  },
+  {
+    "id": 165,
+    "textAr": "كَلَامُ الْعَبْدِ فِيمَا لَا يَعْنِيهِ، خِذْلَانٌ مِنَ اللَّهِ عَزَّ وَجَلَّ",
+    "textFr": "La parole du serviteur dans ce qui ne le concerne pas est un abandon de la part d'Allah.",
+    "textEn": "The servant's speech about what does not concern him is a forsaking from Allah.",
+    "sourceAr": "معروف الكرخي رحمه الله",
+    "sourceFr": "Ma‘rûf al-Karkhî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Ma‘rûf al-Karkhî (may Allah have mercy on him)"
+  },
+  {
+    "id": 166,
+    "textAr": "الْقُلُوبُ كَالْقُدُورِ تَغْلِي بِمَا فِيهَا، وَأَلْسِنَتُهَا مَغَارِفُهَا، فَانْظُرْ إِلَى الرَّجُلِ حِينَ يَتَكَلَّمُ، فَإِنَّ لِسَانَهُ يَغْتَرِفُ لَكَ مِمَّا فِي قَلْبِهِ",
+    "textFr": "Les cœurs sont comme des marmites qui bouillent avec ce qu'elles contiennent, et les langues sont leurs louches. Regarde donc l'homme lorsqu'il parle : sa langue te puise ce qu'il y a dans son cœur.",
+    "textEn": "Hearts are like pots that boil with what they contain, and tongues are their ladles. So look at a man when he speaks: his tongue scoops for you what is in his heart.",
+    "sourceAr": "يحيى بن معاذ رحمه الله",
+    "sourceFr": "Yahyâ ibn Mu‘âdh (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Yahyâ ibn Mu‘âdh (may Allah have mercy on him)"
+  },
+  {
+    "id": 167,
+    "textAr": "إِنَّ الْأَبْرَارَ لَتَغْلِي قُلُوبُهُمْ بِأَعْمَالِ الْبِرِّ، وَإِنَّ الْفُجَّارَ تَغْلِي قُلُوبُهُمْ بِأَعْمَالِ الْفُجُورِ، وَاللَّهُ يَرَى هُمُومَكُمْ، فَانْظُرُوا مَا هُمُومُكُمْ",
+    "textFr": "Les cœurs des pieux bouillent d'œuvres pies, et les cœurs des dépravés bouillent d'œuvres dépravées. Allah voit vos préoccupations, regardez donc quelles sont vos préoccupations.",
+    "textEn": "The hearts of the righteous boil with righteous deeds, and the hearts of the wicked boil with wicked deeds. Allah sees your concerns, so look at what your concerns are.",
+    "sourceAr": "مالك بن دينار رحمه الله",
+    "sourceFr": "Mâlik ibn Dînâr (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Mâlik ibn Dînâr (may Allah have mercy on him)"
+  },
+  {
+    "id": 168,
+    "textAr": "أَوَّلُ بِدْعَةٍ حَدَثَتْ بَعْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم : الشِّبَعُ، إِنَّ الْقَوْمَ لَمَّا شَبِعَتْ بُطُونُهُمْ، جَمَحَتْ بِهِمْ نُفُوسُهُمْ إِلَى الدُّنْيَا",
+    "textFr": "La première innovation apparue après le Messager d'Allah (paix et salut sur lui) est la satiété. Lorsque les gens eurent le ventre plein, leurs âmes les emportèrent vers ce monde.",
+    "textEn": "The first innovation to appear after the Messenger of Allah (peace be upon him) was satiety. When people's stomachs became full, their souls carried them away towards this world.",
+    "sourceAr": "عائشة رضي الله عنها",
+    "sourceFr": "‘Â'ishah (qu'Allah l'agrée)",
+    "sourceEn": "‘Â'ishah (may Allah be pleased with her)"
+  },
+  {
+    "id": 169,
+    "textAr": "لَا تُجَالِسْ أَهْلَ الْأَهْوَاءِ فَإِنَّ مُجَالَسَتَهُمْ مُمَرِّضَةٌ لِلْقَلْبِ",
+    "textFr": "Ne fréquente pas les gens de passions, car leur fréquentation est une maladie pour le cœur.",
+    "textEn": "Do not sit with the people of desires, for their company is a sickness for the heart.",
+    "sourceAr": "عبد الله بن عباس رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Abbâs (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Abbâs (may Allah be pleased with them)"
+  },
+  {
+    "id": 170,
+    "textAr": "لَأَنْ أُجَالِسَ الْخَنَازِيرَ، أَحَبُّ إِلَيَّ مِنْ أَنْ أُجَالِسَ رَجُلًا مِنْ أَهْلِ الْأَهْوَاءِ",
+    "textFr": "Il m'est plus agréable de fréquenter des porcs que de fréquenter un homme parmi les gens de passions.",
+    "textEn": "It is more pleasing to me to sit with pigs than to sit with a man from the people of desires.",
+    "sourceAr": "أبو الجوزاء رحمه الله",
+    "sourceFr": "Abû al-Jawzâ' (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Abû al-Jawzâ' (may Allah have mercy on him)"
+  },
+  {
+    "id": 171,
+    "textAr": "صَبْرُكَ عَلَى السُّنَّةِ خَيْرٌ مِنْ صَبْرِكَ عَلَى السَّيْفِ",
+    "textFr": "Ta patience sur la Sunna est meilleure que ta patience sur l'épée.",
+    "textEn": "Your patience upon the Sunnah is better than your patience upon the sword.",
+    "sourceAr": "الأوزاعي رحمه الله",
+    "sourceFr": "Al-Awzâ‘î (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Awzâ‘î (may Allah have mercy on him)"
+  },
+  {
+    "id": 172,
+    "textAr": "قِفْ حَيْثُ وَقَفَ الْقَوْمُ، وَقُلْ مَا قَالُوا، وَكُفَّ عَمَّا كَفُّوا عَنْهُ، وَاتَّبِعْ سَبِيلَ سَلَفِكَ الصَّالِحِ، فَإِنَّهُ يَكْفِيكَ مَا كَفَاهُمْ",
+    "textFr": "Arrête-toi là où les gens (les pieux prédécesseurs) se sont arrêtés, dis ce qu'ils ont dit, abstiens-toi de ce dont ils se sont abstenus, et suis la voie de tes pieux prédécesseurs, car ce qui leur a suffi te suffira.",
+    "textEn": "Stop where the people (the pious predecessors) stopped, say what they said, abstain from what they abstained from, and follow the path of your pious predecessors, for what sufficed them will suffice you.",
+    "sourceAr": "الأوزاعي رحمه الله",
+    "sourceFr": "Al-Awzâ‘î (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Awzâ‘î (may Allah have mercy on him)"
+  },
+  {
+    "id": 173,
+    "textAr": "إِنَّ الْبِدْعَةَ أَحَبُّ إِلَى إِبْلِيسَ مِنَ الْمَعْصِيَةِ، لِأَنَّ الْمَعْصِيَةَ يُتَابُ مِنْهَا، وَالْبِدْعَةَ لَا يُتَابُ مِنْهَا",
+    "textFr": "L'innovation est plus aimée d'Iblis que le péché, car on se repent du péché, mais on ne se repent pas de l'innovation.",
+    "textEn": "Innovation is more beloved to Iblis than sin, because one repents from sin, but one does not repent from innovation.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 174,
+    "textAr": "مَنْ كَتَمَنَا بِدْعَتَهُ لَمْ يَكْتُمْ عَنَّا مُجَالَسَتَهُ",
+    "textFr": "Celui qui nous cache son innovation, ne nous cachera pas ses fréquentations.",
+    "textEn": "Whoever hides his innovation from us will not hide his company from us.",
+    "sourceAr": "الأوزاعي رحمه الله",
+    "sourceFr": "Al-Awzâ‘î (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Awzâ‘î (may Allah have mercy on him)"
+  },
+  {
+    "id": 175,
+    "textAr": "لَا خَيْرَ فِي الْعِلْمِ إِذَا لَمْ يُرِدْ بِهِ صَاحِبُهُ وَجْهَ اللَّهِ",
+    "textFr": "Il n'y a pas de bien dans la science si son possesseur ne recherche pas par elle le Visage d'Allah.",
+    "textEn": "There is no good in knowledge if its possessor does not seek by it the Face of Allah.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 176,
+    "textAr": "إِذَا جَاءَكَ الْغَضَبُ فَاذْكُرِ الْحِلْمَ، وَإِذَا جَاءَكَ الْعَجْزُ فَاذْكُرِ الْقُدْرَةَ، وَإِذَا جَاءَكَ الْكِبْرُ فَاذْكُرِ التَّوَاضُعَ",
+    "textFr": "Lorsque la colère vient à toi, souviens-toi de la clémence ; lorsque l'impuissance vient à toi, souviens-toi de la puissance ; lorsque l'orgueil vient à toi, souviens-toi de l'humilité.",
+    "textEn": "When anger comes to you, remember forbearance; when helplessness comes to you, remember power; when pride comes to you, remember humility.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 177,
+    "textAr": "إِنَّ اللَّهَ إِذَا أَرَادَ بِعَبْدٍ خَيْرًا فَتَحَ لَهُ بَابَ الْعَمَلِ وَأَغْلَقَ عَنْهُ بَابَ الْجَدَلِ",
+    "textFr": "Lorsqu'Allah veut du bien à un serviteur, Il lui ouvre la porte de l'action et lui ferme la porte de la dispute.",
+    "textEn": "When Allah wants good for a servant, He opens for him the door of action and closes for him the door of argumentation.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 178,
+    "textAr": "رَأْسُ الْحِكْمَةِ مَخَافَةُ اللَّهِ",
+    "textFr": "Le commencement de la sagesse est la crainte d'Allah.",
+    "textEn": "The beginning of wisdom is the fear of Allah.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 179,
+    "textAr": "مَنْ عَرَفَ اللَّهَ أَحَبَّهُ، وَمَنْ أَحَبَّ اللَّهَ أَطَاعَهُ، وَمَنْ أَطَاعَ اللَّهَ نَجَا",
+    "textFr": "Celui qui connaît Allah L'aime, celui qui aime Allah Lui obéit, et celui qui obéit à Allah est sauvé.",
+    "textEn": "Whoever knows Allah loves Him, whoever loves Allah obeys Him, and whoever obeys Allah is saved.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 180,
+    "textAr": "لَا تَنْظُرْ إِلَى مَنْ تَكَلَّمَ، وَلَكِنِ انْظُرْ إِلَى مَا تَكَلَّمَ بِهِ",
+    "textFr": "Ne regarde pas celui qui parle, mais regarde ce qu'il dit.",
+    "textEn": "Do not look at the one who speaks, but look at what he says.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 181,
+    "textAr": "الْقَلْبُ مَلِكُ الْجَسَدِ، فَإِذَا صَلَحَ الْمَلِكُ صَلَحَ الْجُنْدُ، وَإِذَا فَسَدَ الْمَلِكُ فَسَدَ الْجُنْدُ",
+    "textFr": "Le cœur est le roi du corps. Si le roi est bon, les soldats sont bons ; si le roi est corrompu, les soldats sont corrompus.",
+    "textEn": "The heart is the king of the body. If the king is good, the soldiers are good; if the king is corrupt, the soldiers are corrupt.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 182,
+    "textAr": "مَنْ أَكْثَرَ ذِكْرَ الْمَوْتِ رَضِيَ مِنَ الدُّنْيَا بِالْيَسِيرِ",
+    "textFr": "Celui qui multiplie le souvenir de la mort se contente de peu de ce monde.",
+    "textEn": "Whoever frequently remembers death is content with little of this world.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 183,
+    "textAr": "إِذَا أَرَدْتَ أَنْ تَعْلَمَ مَكَانَتَكَ عِنْدَ اللَّهِ، فَانْظُرْ إِلَى مَكَانَةِ اللَّهِ عِنْدَكَ",
+    "textFr": "Si tu veux connaître ta place auprès d'Allah, regarde la place qu'Allah occupe auprès de toi.",
+    "textEn": "If you want to know your standing with Allah, look at the standing Allah has with you.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 184,
+    "textAr": "أَحْسِنُوا الظَّنَّ بِاللَّهِ، فَإِنَّ حُسْنَ الظَّنِّ بِاللَّهِ مِنْ حُسْنِ الْعِبَادَةِ",
+    "textFr": "Ayez une bonne opinion d'Allah, car la bonne opinion d'Allah fait partie de la bonne adoration.",
+    "textEn": "Have a good opinion of Allah, for having a good opinion of Allah is part of good worship.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 185,
+    "textAr": "مَنْ أَحَبَّ شَيْئًا أَكْثَرَ ذِكْرَهُ، وَمَنْ أَكْثَرَ ذِكْرَ شَيْءٍ مَلَكَ قَلْبَهُ",
+    "textFr": "Celui qui aime une chose en fait beaucoup le rappel, et celui qui fait beaucoup le rappel d'une chose voit son cœur en être possédé.",
+    "textEn": "Whoever loves something frequently remembers it, and whoever frequently remembers something has his heart possessed by it.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 186,
+    "textAr": "لَا تَكُنْ عَبْدَ النَّاسِ، كُنْ عَبْدَ اللَّهِ",
+    "textFr": "Ne sois pas l'esclave des gens, sois l'esclave d'Allah.",
+    "textEn": "Do not be a slave of people, be a slave of Allah.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 187,
+    "textAr": "إِنَّ الْعَبْدَ إِذَا أَذْنَبَ ذَنْبًا نُكِتَ فِي قَلْبِهِ نُكْتَةٌ سَوْدَاءُ، فَإِنْ تَابَ صُقِلَ قَلْبُهُ، وَإِنْ زَادَ زَادَتْ",
+    "textFr": "Lorsque le serviteur commet un péché, une tache noire est marquée dans son cœur. S'il se repent, son cœur est poli ; s'il augmente (les péchés), la tache augmente.",
+    "textEn": "When the servant commits a sin, a black spot is marked in his heart. If he repents, his heart is polished; if he increases (in sin), the spot increases.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 188,
+    "textAr": "إِنَّمَا الْعِلْمُ بِالتَّعَلُّمِ، وَإِنَّمَا الْحِلْمُ بِالتَّحَلُّمِ",
+    "textFr": "La science s'acquiert par l'apprentissage, et la clémence s'acquiert par la pratique.",
+    "textEn": "Knowledge is acquired by learning, and forbearance is acquired by practice.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 189,
+    "textAr": "مَنْ رَضِيَ عَنِ اللَّهِ فِي الْبَلَاءِ، رَضِيَ اللَّهُ عَنْهُ فِي الْعَطَاءِ",
+    "textFr": "Celui qui est satisfait d'Allah dans l'épreuve, Allah est satisfait de lui dans la faveur.",
+    "textEn": "Whoever is content with Allah in affliction, Allah is content with him in favor.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 190,
+    "textAr": "لَا تَكُنْ مِمَّنْ يُحِبُّ الدُّنْيَا فَيَكْرَهُ الْمَوْتَ، وَيُحِبُّ الْآخِرَةَ فَيَكْرَهُ الْعَمَلَ",
+    "textFr": "Ne sois pas de ceux qui aiment ce monde et détestent la mort, et qui aiment l'au-delà et détestent l'action.",
+    "textEn": "Do not be among those who love this world and hate death, and who love the Hereafter and hate action.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 191,
+    "textAr": "خَيْرُ الْأُمُورِ أَوْسَاطُهَا",
+    "textFr": "Les meilleures choses sont celles qui sont modérées.",
+    "textEn": "The best of things are those that are moderate.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 192,
+    "textAr": "مَنْ أَحَبَّ اللَّهَ أَحَبَّ ذِكْرَهُ، وَمَنْ أَحَبَّ ذِكْرَهُ أَحَبَّ طَاعَتَهُ",
+    "textFr": "Celui qui aime Allah aime Son rappel, et celui qui aime Son rappel aime Son obéissance.",
+    "textEn": "Whoever loves Allah loves His remembrance, and whoever loves His remembrance loves His obedience.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 193,
+    "textAr": "إِذَا أَرَدْتَ أَنْ تَعْرِفَ عَبْدًا، فَانْظُرْ إِلَى مَنْ يُصَاحِبُ وَمَنْ يُجَالِسُ",
+    "textFr": "Si tu veux connaître un serviteur, regarde avec qui il se lie et avec qui il s'assied.",
+    "textEn": "If you want to know a servant, look at whom he befriends and with whom he sits.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 194,
+    "textAr": "الْإِخْلَاصُ أَنْ لَا تَطْلُبَ عَلَى عَمَلِكَ شَاهِدًا غَيْرَ اللَّهِ",
+    "textFr": "La sincérité est de ne rechercher pour ton œuvre aucun témoin autre qu'Allah.",
+    "textEn": "Sincerity is not to seek for your deed any witness other than Allah.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 195,
+    "textAr": "مَنْ عَرَفَ نَفْسَهُ عَرَفَ رَبَّهُ، وَمَنْ عَرَفَ رَبَّهُ هَانَتْ عَلَيْهِ الدُّنْيَا",
+    "textFr": "Celui qui connaît son âme connaît son Seigneur, et celui qui connaît son Seigneur, ce monde lui devient insignifiant.",
+    "textEn": "Whoever knows his soul knows his Lord, and whoever knows his Lord, this world becomes insignificant to him.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 196,
+    "textAr": "إِنَّمَا يَهَابُكَ النَّاسُ عَلَى قَدْرِ هَيْبَتِكَ لِلَّهِ",
+    "textFr": "Les gens ne te craignent qu'à proportion de ta crainte d'Allah.",
+    "textEn": "People only fear you to the extent of your fear of Allah.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 197,
+    "textAr": "مَنْ كَثُرَ صَمْتُهُ كَثُرَ وَقَارُهُ",
+    "textFr": "Celui dont le silence est abondant, sa dignité est grande.",
+    "textEn": "Whoever's silence is abundant, his dignity is great.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 198,
+    "textAr": "مَنْ أَحَبَّ اللَّهَ أَحَبَّ اللِّقَاءَ، وَمَنْ كَرِهَ اللِّقَاءَ كَرِهَ اللَّهَ",
+    "textFr": "Celui qui aime Allah aime la rencontre (avec Lui), et celui qui déteste la rencontre déteste Allah.",
+    "textEn": "Whoever loves Allah loves the meeting (with Him), and whoever hates the meeting hates Allah.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 199,
+    "textAr": "لَا تَكُونُوا كَالَّذِينَ يَنْظُرُونَ إِلَى الدُّنْيَا بِأَعْيُنِ الْآخِرَةِ، وَإِلَى الْآخِرَةِ بِأَعْيُنِ الدُّنْيَا",
+    "textFr": "Ne soyez pas comme ceux qui regardent ce monde avec les yeux de l'au-delà et l'au-delà avec les yeux de ce monde.",
+    "textEn": "Do not be like those who look at this world with the eyes of the Hereafter and at the Hereafter with the eyes of this world.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 200,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الْمُتَوَاضِعَ الَّذِي لَا يَتَكَبَّرُ، وَيُبْغِضُ الْعَبْدَ الْمُتَكَبِّرَ الَّذِي لَا يَتَوَاضَعُ",
+    "textFr": "Allah aime le serviteur humble qui ne s'enorgueillit pas, et Il déteste le serviteur orgueilleux qui ne s'humilie pas.",
+    "textEn": "Allah loves the humble servant who does not become arrogant, and He hates the arrogant servant who does not humble himself.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 201,
+    "textAr": "خَيْرُ النَّاسِ مَنْ نَفَعَ النَّاسَ",
+    "textFr": "Le meilleur des gens est celui qui est utile aux gens.",
+    "textEn": "The best of people is the one who benefits people.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 202,
+    "textAr": "مَنْ عَرَفَ رَبَّهُ هَانَتْ عَلَيْهِ الدُّنْيَا",
+    "textFr": "Celui qui connaît son Seigneur, ce monde lui devient insignifiant.",
+    "textEn": "Whoever knows his Lord, this world becomes insignificant to him.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 203,
+    "textAr": "إِنَّ اللَّهَ يَرْفَعُ بِالْبَلَاءِ أَقْوَامًا وَيَخْفِضُ بِالْعَافِيَةِ آخَرِينَ",
+    "textFr": "Allah élève par l'épreuve certains peuples et abaisse par la santé d'autres.",
+    "textEn": "Allah raises some people through affliction and lowers others through well-being.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 204,
+    "textAr": "إِنَّ الْإِيمَانَ يَزِيدُ وَيَنْقُصُ، يَزِيدُ بِالطَّاعَةِ وَيَنْقُصُ بِالْمَعْصِيَةِ",
+    "textFr": "La foi augmente et diminue : elle augmente par l'obéissance et diminue par la désobéissance.",
+    "textEn": "Faith increases and decreases: it increases by obedience and decreases by disobedience.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 205,
+    "textAr": "لَا يَسْتَكْمِلُ عَبْدٌ حَقِيقَةَ الْإِيمَانِ حَتَّى يَكُونَ حُبُّ اللَّهِ وَرَسُولِهِ أَحَبَّ إِلَيْهِ مِنْ نَفْسِهِ وَمَالِهِ وَوَلَدِهِ",
+    "textFr": "Un serviteur n'atteint pas la plénitude de la foi jusqu'à ce que l'amour d'Allah et de Son Messager lui soit plus cher que lui-même, ses biens et ses enfants.",
+    "textEn": "A servant does not attain the fullness of faith until the love of Allah and His Messenger is dearer to him than himself, his wealth, and his children.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 206,
+    "textAr": "مَنْ أَطَالَ الصَّمْتَ أُوتِيَ الْحِكْمَةَ",
+    "textFr": "Celui qui prolonge son silence reçoit la sagesse.",
+    "textEn": "Whoever prolongs his silence is given wisdom.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 207,
+    "textAr": "مَنْ أُعْجِبَ بِرَأْيِهِ ضَلَّ",
+    "textFr": "Celui qui s'admire de son opinion s'égare.",
+    "textEn": "Whoever is impressed by his own opinion goes astray.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 208,
+    "textAr": "لَا تَكُونُوا عُلَمَاءَ يُشِيرُونَ بِالْخَيْرِ وَيَفْعَلُونَ الشَّرَّ",
+    "textFr": "Ne soyez pas des savants qui indiquent le bien et commettent le mal.",
+    "textEn": "Do not be scholars who point to good and do evil.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 209,
+    "textAr": "مَنْ عَظُمَ حِرْصُهُ عَلَى الدُّنْيَا اشْتَغَلَ بِهَا عَنِ اللَّهِ",
+    "textFr": "Celui dont l'avidité pour ce monde est grande s'occupe de lui au détriment d'Allah.",
+    "textEn": "Whoever's greed for this world is great is occupied with it instead of Allah.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 210,
+    "textAr": "إِذَا تَمَامُ النِّعْمَةِ عَلَى الْعَبْدِ أَنْ يَرْزُقَهُ اللَّهُ شُكْرَهَا",
+    "textFr": "Le complément de la grâce sur le serviteur est qu'Allah lui accorde la reconnaissance pour elle.",
+    "textEn": "The completion of the favor upon the servant is that Allah grants him gratitude for it.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 211,
+    "textAr": "لَا يَزْهَدُ فِي الدُّنْيَا إِلَّا عَارِفٌ، وَلَا يَزْهَدُ فِي الْآخِرَةِ إِلَّا جَاهِلٌ",
+    "textFr": "Seul un connaisseur se détache de ce monde, et seul un ignorant se détache de l'au-delà.",
+    "textEn": "Only a knower renounces this world, and only an ignorant person renounces the Hereafter.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 212,
+    "textAr": "إِنَّ اللَّهَ إِذَا أَحَبَّ عَبْدًا اسْتَعْمَلَهُ فِي عِبَادَتِهِ",
+    "textFr": "Lorsqu'Allah aime un serviteur, Il l'emploie dans Son adoration.",
+    "textEn": "When Allah loves a servant, He employs him in His worship.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 213,
+    "textAr": "لَا يَخْفَى عَلَى اللَّهِ شَيْءٌ، وَإِنْ كَانَ فِي الْقَلْبِ",
+    "textFr": "Rien n'est caché à Allah, même ce qui est dans le cœur.",
+    "textEn": "Nothing is hidden from Allah, even what is in the heart.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 214,
+    "textAr": "مَنْ تَخَشَّعَ قَلْبُهُ خَشَعَتْ جَوَارِحُهُ",
+    "textFr": "Celui dont le cœur est humble, ses membres s'humilient.",
+    "textEn": "Whoever's heart is humble, his limbs become humble.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 215,
+    "textAr": "لَا يَسْتَقِيمُ إِيمَانُ عَبْدٍ حَتَّى يَسْتَقِيمَ قَلْبُهُ",
+    "textFr": "La foi d'un serviteur ne se redresse pas tant que son cœur ne se redresse pas.",
+    "textEn": "The faith of a servant does not become upright until his heart becomes upright.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 216,
+    "textAr": "مَنْ أَحَبَّ الدُّنْيَا سَقَطَ مِنْ عَيْنِ اللَّهِ",
+    "textFr": "Celui qui aime ce monde tombe des yeux d'Allah.",
+    "textEn": "Whoever loves this world falls from the sight of Allah.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 217,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَذْكُرُهُ فِي الْخَلَاءِ",
+    "textFr": "Allah aime le serviteur qui se souvient de Lui dans l'isolement.",
+    "textEn": "Allah loves the servant who remembers Him in seclusion.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 218,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَأْمُرُ بِالْمَعْرُوفِ وَلَا يَأْتِيهِ، وَيَنْهَى عَنِ الْمُنْكَرِ وَيَأْتِيهِ",
+    "textFr": "Ne sois pas de ceux qui ordonnent le bien et ne le pratiquent pas, et interdisent le mal et le commettent.",
+    "textEn": "Do not be among those who enjoin good and do not do it, and forbid evil and do it.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 219,
+    "textAr": "إِنَّ الْعَبْدَ إِذَا أَخْلَصَ النِّيَّةَ وَحَسُنَ عَمَلُهُ، أَثَابَهُ اللَّهُ أَضْعَافًا",
+    "textFr": "Lorsque le serviteur rend son intention sincère et que son œuvre est bonne, Allah le récompense par des multiples.",
+    "textEn": "When the servant makes his intention sincere and his deed is good, Allah rewards him manifold.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 220,
+    "textAr": "رَأْسُ الدِّينِ التَّوَكُّلُ عَلَى اللَّهِ",
+    "textFr": "Le commencement de la religion est la confiance en Allah.",
+    "textEn": "The beginning of religion is trust in Allah.",
+    "sourceAr": "عبد الله بن عباس رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Abbâs (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Abbâs (may Allah be pleased with them)"
+  },
+  {
+    "id": 221,
+    "textAr": "مَنْ أَكَلَ حَلَالًا صَفَا قَلْبُهُ، وَمَنْ أَكَلَ حَرَامًا قَسَا قَلْبُهُ",
+    "textFr": "Celui qui mange du licite a le cœur pur, et celui qui mange de l'illicite a le cœur dur.",
+    "textEn": "Whoever eats lawful food has a pure heart, and whoever eats unlawful food has a hard heart.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 222,
+    "textAr": "إِنَّ اللَّهَ يُجِيبُ دَعْوَةَ الْمُضْطَرِّ إِذَا دَعَاهُ",
+    "textFr": "Allah répond à l'appel de celui qui est en détresse lorsqu'il L'invoque.",
+    "textEn": "Allah answers the call of the distressed when he calls upon Him.",
+    "sourceAr": "عبد الله بن عباس رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Abbâs (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Abbâs (may Allah be pleased with them)"
+  },
+  {
+    "id": 223,
+    "textAr": "مَنْ حَافَظَ عَلَى الصَّلَوَاتِ نَالَ الْفَوْزَ",
+    "textFr": "Celui qui préserve les prières obtient la réussite.",
+    "textEn": "Whoever guards the prayers attains success.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 224,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ النَّصُوحَ",
+    "textFr": "Allah aime le serviteur sincère dans son conseil.",
+    "textEn": "Allah loves the servant who is sincere in his advice.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 225,
+    "textAr": "مَنْ صَمَتَ نَجَا",
+    "textFr": "Celui qui se tait est sauvé.",
+    "textEn": "Whoever remains silent is saved.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 226,
+    "textAr": "مَنْ قَلَّ كَلَامُهُ دَلَّتْ فَضِيلَتُهُ",
+    "textFr": "Celui dont les paroles sont rares, sa vertu est apparente.",
+    "textEn": "Whoever's speech is little, his virtue is evident.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 227,
+    "textAr": "إِنَّ اللَّهَ عِنْدَ ظَنِّ عَبْدِهِ بِهِ",
+    "textFr": "Allah est comme Son serviteur Le pense.",
+    "textEn": "Allah is as His servant thinks of Him.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 228,
+    "textAr": "مَنْ أَحَبَّ اللَّهَ أَحَبَّ ذِكْرَهُ",
+    "textFr": "Celui qui aime Allah aime Son rappel.",
+    "textEn": "Whoever loves Allah loves His remembrance.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 229,
+    "textAr": "لَا تُحِبَّ الدُّنْيَا فَتَكُونَ أَسِيرَهَا",
+    "textFr": "N'aime pas ce monde, sinon tu en deviendras le prisonnier.",
+    "textEn": "Do not love this world, otherwise you will become its prisoner.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 230,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّوَّابَ",
+    "textFr": "Allah aime le serviteur qui se repent beaucoup.",
+    "textEn": "Allah loves the servant who repents often.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 231,
+    "textAr": "مَنْ تَرَكَ الدُّنْيَا أَحَبَّتْهُ الْآخِرَةُ",
+    "textFr": "Celui qui abandonne ce monde est aimé de l'au-delà.",
+    "textEn": "Whoever abandons this world is loved by the Hereafter.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 232,
+    "textAr": "إِنَّ اللَّهَ لَا يَقْبَلُ عَمَلًا إِلَّا بِالْإِخْلَاصِ",
+    "textFr": "Allah n'accepte aucune œuvre sans sincérité.",
+    "textEn": "Allah does not accept any deed without sincerity.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 233,
+    "textAr": "لَا يَزَالُ الْعَبْدُ خَيْرًا مَا أَكْرَمَ نَفْسَهُ، وَإِذَا أَهَانَهَا هَلَكَ",
+    "textFr": "Le serviteur reste bon tant qu'il honore son âme, et s'il l'avilit, il périt.",
+    "textEn": "The servant remains good as long as he honors his soul, and if he debases it, he perishes.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 234,
+    "textAr": "مَنْ كَثُرَ تَفَكُّرُهُ فِي الْآخِرَةِ قَلَّ طَمَعُهُ فِي الدُّنْيَا",
+    "textFr": "Celui qui médite beaucoup sur l'au-delà voit son avidité pour ce monde diminuer.",
+    "textEn": "Whoever reflects much on the Hereafter, his greed for this world decreases.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 235,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الْغَنِيَّ الْحَلِيمَ",
+    "textFr": "Allah aime le serviteur riche (de cœur) et clément.",
+    "textEn": "Allah loves the servant who is rich (of heart) and clement.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 236,
+    "textAr": "لَا تَدَعْ عَمَلًا صَالِحًا لِعَمَلٍ صَالِحٍ آخَرَ، فَإِنَّ الْأَوَّلَ قَدْ يَكُونُ أَفْضَلَ",
+    "textFr": "N'abandonne pas une bonne œuvre pour une autre bonne œuvre, car la première pourrait être meilleure.",
+    "textEn": "Do not abandon a good deed for another good deed, for the first might be better.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 237,
+    "textAr": "مَنْ أَحْيَا قَلْبَهُ بِالْعِلْمِ، مَاتَتْ شَهْوَتُهُ عَلَى الدُّنْيَا",
+    "textFr": "Celui qui fait vivre son cœur par la science, sa passion pour ce monde meurt.",
+    "textEn": "Whoever gives life to his heart with knowledge, his desire for this world dies.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 238,
+    "textAr": "لَا يَكُنْ أَحَبُّ شَيْءٍ إِلَيْكَ الدُّنْيَا، فَإِنَّهَا لَيْسَتْ بِدَارِ بَقَاءٍ",
+    "textFr": "Que ce monde ne soit pas la chose la plus aimée de toi, car il n'est pas une demeure éternelle.",
+    "textEn": "Do not let this world be the most beloved thing to you, for it is not an abode of permanence.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 239,
+    "textAr": "إِنَّ اللَّهَ يُجِيبُ الدَّاعِيَ إِذَا دَعَاهُ مِنْ قَلْبٍ سَلِيمٍ",
+    "textFr": "Allah répond à celui qui L'invoque d'un cœur sain.",
+    "textEn": "Allah answers the one who calls upon Him with a sound heart.",
+    "sourceAr": "عبد الله بن عباس رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Abbâs (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Abbâs (may Allah be pleased with them)"
+  },
+  {
+    "id": 240,
+    "textAr": "مَنْ تَزَوَّدَ بِالتَّقْوَى سَلِمَ مِنَ الْبَلَاءِ",
+    "textFr": "Celui qui se pourvoit de piété est préservé de l'épreuve.",
+    "textEn": "Whoever takes piety as provision is saved from affliction.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 241,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَخْشَاهُ فِي الْخَلَاءِ",
+    "textFr": "Allah aime le serviteur qui Le craint dans l'isolement.",
+    "textEn": "Allah loves the servant who fears Him in seclusion.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 242,
+    "textAr": "لَا تُطِيعُوا النَّفْسَ فِي شَهْوَاتِهَا، فَإِنَّهَا تَدْعُو إِلَى الْهَلَاكِ",
+    "textFr": "N'obéis pas à l'âme dans ses passions, car elle appelle à la perdition.",
+    "textEn": "Do not obey the soul in its desires, for it calls to destruction.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 243,
+    "textAr": "مَنْ أَكْثَرَ ذِكْرَ الْمَوْتِ قَلَّ فَرَحُهُ بِالدُّنْيَا",
+    "textFr": "Celui qui multiplie le souvenir de la mort voit sa joie pour ce monde diminuer.",
+    "textEn": "Whoever frequently remembers death, his joy in this world decreases.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 244,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُسَامِحُ النَّاسَ",
+    "textFr": "Allah aime le serviteur qui pardonne aux gens.",
+    "textEn": "Allah loves the servant who forgives people.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 245,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَشْتَرِي الدُّنْيَا بِالْآخِرَةِ",
+    "textFr": "Ne soyez pas de ceux qui achètent ce monde au prix de l'au-delà.",
+    "textEn": "Do not be among those who buy this world at the price of the Hereafter.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 246,
+    "textAr": "مَنْ رَضِيَ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا، دَخَلَ الْجَنَّةَ",
+    "textFr": "Celui qui se satisfait d'Allah comme Seigneur, de l'Islam comme religion et de Muhammad comme Prophète, entre au Paradis.",
+    "textEn": "Whoever is content with Allah as Lord, Islam as religion, and Muhammad as Prophet, enters Paradise.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 247,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُقِيمُ الصَّلَاةَ فِي وَقْتِهَا",
+    "textFr": "Allah aime le serviteur qui accomplit la prière à son heure.",
+    "textEn": "Allah loves the servant who performs the prayer at its time.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 248,
+    "textAr": "لَا تَكُنْ عَبْدَ الشَّهْوَةِ فَتَكُونَ أَرْذَلَ الْعَبِيدِ",
+    "textFr": "Ne sois pas l'esclave de la passion, sinon tu seras le plus vil des esclaves.",
+    "textEn": "Do not be a slave of desire, otherwise you will be the most despicable of slaves.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 249,
+    "textAr": "مَنْ خَافَ اللَّهَ خَافَهُ كُلُّ شَيْءٍ",
+    "textFr": "Celui qui craint Allah, toute chose Le craint.",
+    "textEn": "Whoever fears Allah, everything fears him.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 250,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصْلُحُ فِي سِرِّهِ وَعَلَانِيَتِهِ",
+    "textFr": "Allah aime le serviteur qui est bon dans son secret et en public.",
+    "textEn": "Allah loves the servant who is good in private and in public.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 251,
+    "textAr": "لَا تَجْعَلُوا لِأَنْفُسِكُمْ حَظًّا فِي الدُّنْيَا أَكْثَرَ مِنْ حَظِّهَا فِي الْآخِرَةِ",
+    "textFr": "Ne donnez pas à vous-mêmes une part dans ce monde plus grande que votre part dans l'au-delà.",
+    "textEn": "Do not give yourselves a share in this world greater than your share in the Hereafter.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 252,
+    "textAr": "مَنْ عَمِلَ لِلَّهِ أَعْطَاهُ اللَّهُ فَوْقَ مَا يَطْلُبُ",
+    "textFr": "Celui qui œuvre pour Allah, Allah lui donne plus qu'il ne demande.",
+    "textEn": "Whoever works for Allah, Allah gives him more than he asks.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 253,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصْبِرُ عَلَى الْأَذَى",
+    "textFr": "Allah aime le serviteur qui endure la nuisance.",
+    "textEn": "Allah loves the servant who endures harm.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 254,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَشْكُو النَّاسَ إِلَى اللَّهِ وَلَا يَشْكُو نَفْسَهُ إِلَى اللَّهِ",
+    "textFr": "Ne sois pas de ceux qui se plaignent des gens à Allah sans se plaindre d'eux-mêmes à Allah.",
+    "textEn": "Do not be among those who complain about people to Allah without complaining about themselves to Allah.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 255,
+    "textAr": "مَنْ تَذَكَّرَ الْمَوْتَ نَسِيَ الدُّنْيَا",
+    "textFr": "Celui qui se souvient de la mort oublie ce monde.",
+    "textEn": "Whoever remembers death forgets this world.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 256,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَتَوَاضَعُ لِلَّهِ",
+    "textFr": "Allah aime le serviteur qui s'humilie devant Lui.",
+    "textEn": "Allah loves the servant who humbles himself before Him.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 257,
+    "textAr": "لَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ",
+    "textFr": "Ne soyez pas comme ceux qui ont oublié Allah, alors Il leur a fait oublier eux-mêmes.",
+    "textEn": "Do not be like those who forgot Allah, so He made them forget themselves.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 258,
+    "textAr": "مَنْ حَافَظَ عَلَى ذِكْرِ اللَّهِ، حَفِظَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "textFr": "Celui qui préserve le rappel d'Allah, Allah le préserve dans ce monde et dans l'au-delà.",
+    "textEn": "Whoever preserves the remembrance of Allah, Allah preserves him in this world and the Hereafter.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 259,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَغْضَبُ لِلَّهِ",
+    "textFr": "Allah aime le serviteur qui se met en colère pour Allah.",
+    "textEn": "Allah loves the servant who gets angry for Allah.",
+    "sourceAr": "عبد الله بن عباس رضي الله عنهما",
+    "sourceFr": "‘Abd Allâh ibn ‘Abbâs (qu'Allah les agrée)",
+    "sourceEn": "‘Abd Allâh ibn ‘Abbâs (may Allah be pleased with them)"
+  },
+  {
+    "id": 260,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَعْمَلُ لِلدُّنْيَا وَيَتْرُكُ الْآخِرَةَ",
+    "textFr": "Ne sois pas de ceux qui œuvrent pour ce monde et abandonnent l'au-delà.",
+    "textEn": "Do not be among those who work for this world and abandon the Hereafter.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 261,
+    "textAr": "مَنْ أَسَرَّ السَّرِيرَةَ أَظْهَرَهَا اللَّهُ",
+    "textFr": "Celui qui cache un secret, Allah le manifestera.",
+    "textEn": "Whoever conceals a secret, Allah will expose it.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 262,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُطْعِمُ الْجَائِعَ",
+    "textFr": "Allah aime le serviteur qui nourrit l'affamé.",
+    "textEn": "Allah loves the servant who feeds the hungry.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 263,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَخْشَى النَّاسَ فِي اللَّهِ",
+    "textFr": "Ne soyez pas de ceux qui craignent les gens au sujet d'Allah.",
+    "textEn": "Do not be among those who fear people regarding Allah.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 264,
+    "textAr": "مَنْ رَضِيَ بِالْقَضَاءِ رَضِيَ اللَّهُ عَنْهُ",
+    "textFr": "Celui qui se satisfait du décret, Allah est satisfait de lui.",
+    "textEn": "Whoever is content with the decree, Allah is content with him.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 265,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُصْلِحُ بَيْنَ النَّاسِ",
+    "textFr": "Allah aime le serviteur qui réconcilie les gens.",
+    "textEn": "Allah loves the servant who reconciles people.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 266,
+    "textAr": "لَا تَكُنْ مِمَّنْ يُحِبُّ الْفَضَائِلَ وَلَا يَعْمَلُ بِهَا",
+    "textFr": "Ne sois pas de ceux qui aiment les vertus sans les pratiquer.",
+    "textEn": "Do not be among those who love virtues without practicing them.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 267,
+    "textAr": "مَنْ أَكْثَرَ ذِكْرَ اللَّهِ، أَحَبَّهُ اللَّهُ",
+    "textFr": "Celui qui multiplie le rappel d'Allah, Allah l'aime.",
+    "textEn": "Whoever multiplies the remembrance of Allah, Allah loves him.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 268,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَتَوَكَّلُ عَلَيْهِ",
+    "textFr": "Allah aime le serviteur qui place sa confiance en Lui.",
+    "textEn": "Allah loves the servant who puts his trust in Him.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 269,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَذْكُرُ اللَّهَ فِي الْخَلَاءِ وَيَنْسَاهُ فِي الْمَلَأِ",
+    "textFr": "Ne soyez pas de ceux qui mentionnent Allah en privé et L'oublient en public.",
+    "textEn": "Do not be among those who mention Allah in private and forget Him in public.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 270,
+    "textAr": "مَنْ عَمِلَ سَيِّئَةً فَلْيَتْبَعْهَا بِحَسَنَةٍ تَمْحُهَا",
+    "textFr": "Celui qui commet un péché, qu'il le suive d'une bonne action qui l'efface.",
+    "textEn": "Whoever commits a sin, let him follow it with a good deed that erases it.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 271,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُحْسِنُ الْعِبَادَةَ",
+    "textFr": "Allah aime le serviteur qui pratique bien l'adoration.",
+    "textEn": "Allah loves the servant who performs worship well.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 272,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَأْكُلُ الْحَلَالَ وَيَشْرَبُ الْحَلَالَ وَيَعْمَلُ الْحَرَامَ",
+    "textFr": "Ne sois pas de ceux qui mangent du licite, boivent du licite et commettent l'illicite.",
+    "textEn": "Do not be among those who eat lawful food, drink lawful drink, and commit unlawful deeds.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 273,
+    "textAr": "مَنْ أَحَبَّ اللَّهَ أَحَبَّ كُلَّ شَيْءٍ لِلَّهِ",
+    "textFr": "Celui qui aime Allah aime toute chose pour Allah.",
+    "textEn": "Whoever loves Allah loves everything for Allah.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 274,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصُومُ فِي الْحَرِّ",
+    "textFr": "Allah aime le serviteur qui jeûne en période de chaleur.",
+    "textEn": "Allah loves the servant who fasts in the heat.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 275,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَخْشَى النَّاسَ فِي الْحَقِّ",
+    "textFr": "Ne soyez pas de ceux qui craignent les gens dans la vérité.",
+    "textEn": "Do not be among those who fear people in truth.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 276,
+    "textAr": "مَنْ صَبَرَ عَلَى الْبَلَاءِ نَالَ الرِّضَا",
+    "textFr": "Celui qui endure l'épreuve atteint la satisfaction (d'Allah).",
+    "textEn": "Whoever endures affliction attains contentment.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 277,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُؤْثِرُ الْآخِرَةَ عَلَى الدُّنْيَا",
+    "textFr": "Allah aime le serviteur qui préfère l'au-delà à ce monde.",
+    "textEn": "Allah loves the servant who prefers the Hereafter over this world.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 278,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَطْلُبُ الدُّنْيَا وَيَتْرُكُ الْآخِرَةَ",
+    "textFr": "Ne sois pas de ceux qui recherchent ce monde et abandonnent l'au-delà.",
+    "textEn": "Do not be among those who seek this world and abandon the Hereafter.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 279,
+    "textAr": "مَنْ تَوَاضَعَ لِلَّهِ رَفَعَهُ اللَّهُ",
+    "textFr": "Celui qui s'humilie devant Allah, Allah l'élève.",
+    "textEn": "Whoever humbles himself before Allah, Allah raises him.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 280,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَسْتَغْفِرُ كَثِيرًا",
+    "textFr": "Allah aime le serviteur qui demande pardon fréquemment.",
+    "textEn": "Allah loves the servant who asks for forgiveness often.",
+    "sourceAr": "الفضيل بن عياض رحمه الله",
+    "sourceFr": "Al-Fudayl ibn ‘Iyâd (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Fudayl ibn ‘Iyâd (may Allah have mercy on him)"
+  },
+  {
+    "id": 281,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَأْمُرُ بِالْمَعْرُوفِ وَيَنْسَى نَفْسَهُ",
+    "textFr": "Ne soyez pas de ceux qui ordonnent le bien et s'oublient eux-mêmes.",
+    "textEn": "Do not be among those who enjoin good and forget themselves.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 282,
+    "textAr": "مَنْ حَافَظَ عَلَى الْفَرَائِضِ نَالَ الْجَنَّةَ",
+    "textFr": "Celui qui préserve les obligations atteint le Paradis.",
+    "textEn": "Whoever preserves the obligations attains Paradise.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 283,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصْبِرُ عَلَى الْفَقْرِ",
+    "textFr": "Allah aime le serviteur qui endure la pauvreté.",
+    "textEn": "Allah loves the servant who endures poverty.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 284,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَغْتَابُ النَّاسَ وَيَنْسَى عُيُوبَ نَفْسِهِ",
+    "textFr": "Ne sois pas de ceux qui médissent des gens et oublient leurs propres défauts.",
+    "textEn": "Do not be among those who backbite people and forget their own faults.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 285,
+    "textAr": "مَنْ عَمِلَ بِالْإِخْلَاصِ نَالَ الْقُبُولَ",
+    "textFr": "Celui qui œuvre avec sincérité obtient l'acceptation.",
+    "textEn": "Whoever works with sincerity attains acceptance.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 286,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُكْثِرُ الصَّلَاةَ",
+    "textFr": "Allah aime le serviteur qui multiplie la prière.",
+    "textEn": "Allah loves the servant who multiplies the prayer.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 287,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَخْشَى الْفَقْرَ وَيَأْمَنُ الْغِنَى",
+    "textFr": "Ne soyez pas de ceux qui craignent la pauvreté et se sentent en sécurité dans la richesse.",
+    "textEn": "Do not be among those who fear poverty and feel secure in wealth.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 288,
+    "textAr": "مَنْ تَرَكَ الدُّنْيَا أَحَبَّتْهُ الْآخِرَةُ",
+    "textFr": "Celui qui abandonne ce monde est aimé de l'au-delà.",
+    "textEn": "Whoever abandons this world is loved by the Hereafter.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 289,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُحْسِنُ الظَّنَّ بِاللَّهِ",
+    "textFr": "Allah aime le serviteur qui a une bonne opinion d'Allah.",
+    "textEn": "Allah loves the servant who has a good opinion of Allah.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 290,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَدْعُو اللَّهَ فِي الشِّدَّةِ وَيَنْسَاهُ فِي الرَّخَاءِ",
+    "textFr": "Ne sois pas de ceux qui invoquent Allah dans l'adversité et L'oublient dans l'aisance.",
+    "textEn": "Do not be among those who call upon Allah in hardship and forget Him in ease.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 291,
+    "textAr": "مَنْ صَبَرَ عَلَى الْجُوعِ نَالَ الشِّبَعَ فِي الْآخِرَةِ",
+    "textFr": "Celui qui endure la faim obtient la satiété dans l'au-delà.",
+    "textEn": "Whoever endures hunger attains satiety in the Hereafter.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 292,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُحْيِي اللَّيْلَ بِالصَّلَاةِ",
+    "textFr": "Allah aime le serviteur qui vivifie la nuit par la prière.",
+    "textEn": "Allah loves the servant who enlivens the night with prayer.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 293,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَضْحَكُ كَثِيرًا وَيَبْكِي قَلِيلًا",
+    "textFr": "Ne soyez pas de ceux qui rient beaucoup et pleurent peu.",
+    "textEn": "Do not be among those who laugh a lot and cry little.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 294,
+    "textAr": "مَنْ أَحْسَنَ الصَّلَاةَ فِي الدُّنْيَا نَالَ الْفَوْزَ فِي الْآخِرَةِ",
+    "textFr": "Celui qui fait bien la prière dans ce monde obtient la réussite dans l'au-delà.",
+    "textEn": "Whoever performs the prayer well in this world attains success in the Hereafter.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 295,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَذْكُرُ اللَّهَ فِي أَسْوَاقِهِ",
+    "textFr": "Allah aime le serviteur qui mentionne Allah dans ses marchés.",
+    "textEn": "Allah loves the servant who mentions Allah in his markets.",
+    "sourceAr": "بعض السلف",
+    "sourceFr": "Certains pieux prédécesseurs",
+    "sourceEn": "Some of the Salaf"
+  },
+  {
+    "id": 296,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَشْهَدُ الزُّورَ وَيَكْتُمُ الْحَقَّ",
+    "textFr": "Ne sois pas de ceux qui témoignent faussement et cachent la vérité.",
+    "textEn": "Do not be among those who bear false witness and conceal the truth.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 297,
+    "textAr": "مَنْ تَابَ إِلَى اللَّهِ تَابَ اللَّهُ عَلَيْهِ",
+    "textFr": "Celui qui se repent à Allah, Allah se repent envers lui.",
+    "textEn": "Whoever repents to Allah, Allah turns to him.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 298,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَخْشَاهُ فِي السِّرِّ",
+    "textFr": "Allah aime le serviteur qui Le craint en secret.",
+    "textEn": "Allah loves the servant who fears Him in secret.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 299,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَأْكُلُ الْحَرَامَ وَيَشْرَبُ الْحَرَامَ",
+    "textFr": "Ne soyez pas de ceux qui mangent de l'illicite et boivent de l'illicite.",
+    "textEn": "Do not be among those who eat unlawful food and drink unlawful drink.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 300,
+    "textAr": "مَنْ صَبَرَ عَلَى الْعُزْلَةِ سَلِمَ دِينُهُ",
+    "textFr": "Celui qui endure la solitude préserve sa religion.",
+    "textEn": "Whoever endures solitude preserves his religion.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 301,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُؤْتِي الزَّكَاةَ بِرِضَا نَفْسٍ",
+    "textFr": "Allah aime le serviteur qui donne la zakat de bon gré.",
+    "textEn": "Allah loves the servant who gives zakat willingly.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 302,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَحْفَظُ الْقُرْآنَ وَلَا يَعْمَلُ بِهِ",
+    "textFr": "Ne sois pas de ceux qui mémorisent le Coran sans le pratiquer.",
+    "textEn": "Do not be among those who memorize the Quran without practicing it.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 303,
+    "textAr": "مَنْ تَرَكَ الْمَعَاصِيَ نَالَ الرِّضْوَانَ",
+    "textFr": "Celui qui abandonne les désobéissances obtient l'agrément.",
+    "textEn": "Whoever abandons disobedience attains pleasure.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 304,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصُومُ النَّهَارَ وَيَقُومُ اللَّيْلَ",
+    "textFr": "Allah aime le serviteur qui jeûne le jour et prie la nuit.",
+    "textEn": "Allah loves the servant who fasts during the day and prays at night.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 305,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَكْتُمُ الْعِلْمَ وَيُضِلُّ النَّاسَ",
+    "textFr": "Ne soyez pas de ceux qui cachent la science et égarent les gens.",
+    "textEn": "Do not be among those who conceal knowledge and mislead people.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 306,
+    "textAr": "مَنْ أَحَبَّ اللَّهَ أَحَبَّ الْمُؤْمِنِينَ",
+    "textFr": "Celui qui aime Allah aime les croyants.",
+    "textEn": "Whoever loves Allah loves the believers.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 307,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَغْفِرُ لِلنَّاسِ",
+    "textFr": "Allah aime le serviteur qui pardonne aux gens.",
+    "textEn": "Allah loves the servant who forgives people.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 308,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَكْذِبُ كَثِيرًا فَيَفْقِدُ الصِّدْقَ",
+    "textFr": "Ne sois pas de ceux qui mentent beaucoup et perdent la véracité.",
+    "textEn": "Do not be among those who lie a lot and lose truthfulness.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 309,
+    "textAr": "مَنْ صَبَرَ عَلَى الْأَذَى نَالَ الْعَافِيَةَ",
+    "textFr": "Celui qui endure la nuisance obtient la santé.",
+    "textEn": "Whoever endures harm attains well-being.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 310,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَشْكُرُ اللَّهَ عَلَى نِعَمِهِ",
+    "textFr": "Allah aime le serviteur qui remercie Allah pour Ses bienfaits.",
+    "textEn": "Allah loves the servant who thanks Allah for His favors.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 311,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَذْكُرُ اللَّهَ قَلِيلًا وَيَكْثُرُ الْغَفْلَةَ",
+    "textFr": "Ne soyez pas de ceux qui mentionnent Allah rarement et s'abandonnent à l'insouciance.",
+    "textEn": "Do not be among those who mention Allah rarely and are heedless.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 312,
+    "textAr": "مَنْ تَرَكَ الْكِبْرَ نَالَ التَّوَاضُعَ",
+    "textFr": "Celui qui abandonne l'orgueil obtient l'humilité.",
+    "textEn": "Whoever abandons pride attains humility.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 313,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُحْسِنُ الْخُلُقَ",
+    "textFr": "Allah aime le serviteur qui a une bonne moralité.",
+    "textEn": "Allah loves the servant who has good character.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 314,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَخْشَى النَّاسَ فِي الْأَمْرِ بِالْمَعْرُوفِ",
+    "textFr": "Ne sois pas de ceux qui craignent les gens dans l'ordre du bien.",
+    "textEn": "Do not be among those who fear people in enjoining good.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 315,
+    "textAr": "مَنْ صَبَرَ عَلَى الْحِرْمَانِ نَالَ الْإِحْسَانَ",
+    "textFr": "Celui qui endure la privation obtient la bienfaisance.",
+    "textEn": "Whoever endures deprivation attains benevolence.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 316,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَعْمَلُ الْخَيْرَ بِإِخْلَاصٍ",
+    "textFr": "Allah aime le serviteur qui fait le bien avec sincérité.",
+    "textEn": "Allah loves the servant who does good with sincerity.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 317,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَخْشَى الْفَقْرَ وَيَتَّكِلُ عَلَى الْغَيْرِ",
+    "textFr": "Ne soyez pas de ceux qui craignent la pauvreté et s'appuient sur autrui.",
+    "textEn": "Do not be among those who fear poverty and rely on others.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 318,
+    "textAr": "مَنْ تَرَكَ الرِّيَاءَ نَالَ الْإِخْلَاصَ",
+    "textFr": "Celui qui abandonne l'ostentation obtient la sincérité.",
+    "textEn": "Whoever abandons showing off attains sincerity.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 319,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَتَصَدَّقُ سِرًّا",
+    "textFr": "Allah aime le serviteur qui fait l'aumône en secret.",
+    "textEn": "Allah loves the servant who gives charity in secret.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 320,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَضْحَكُ كَثِيرًا فَيَمُوتُ قَلْبُهُ",
+    "textFr": "Ne sois pas de ceux qui rient beaucoup, car leur cœur meurt.",
+    "textEn": "Do not be among those who laugh a lot, for their heart dies.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 321,
+    "textAr": "مَنْ أَحْيَا لَيْلَهُ بِالصَّلَاةِ نَالَ النُّورَ",
+    "textFr": "Celui qui vivifie sa nuit par la prière obtient la lumière.",
+    "textEn": "Whoever enlivens his night with prayer attains light.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 322,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُحَافِظُ عَلَى الصَّلَاةِ فِي وَقْتِهَا",
+    "textFr": "Allah aime le serviteur qui préserve la prière à son heure.",
+    "textEn": "Allah loves the servant who preserves the prayer at its time.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 323,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَأْكُلُ الْحَلَالَ وَيَشْرَبُ الْحَلَالَ وَيَلْبَسُ الْحَلَالَ وَيَتَكَلَّمُ بِالْحَرَامِ",
+    "textFr": "Ne soyez pas de ceux qui mangent du licite, boivent du licite, s'habillent de licite et parlent d'illicite.",
+    "textEn": "Do not be among those who eat lawful food, drink lawful drink, wear lawful clothes, and speak unlawfully.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 324,
+    "textAr": "مَنْ تَرَكَ الْغِيبَةَ نَالَ الْعِزَّةَ",
+    "textFr": "Celui qui abandonne la médisance obtient la dignité.",
+    "textEn": "Whoever abandons backbiting attains honor.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 325,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصِلُ الرَّحِمَ",
+    "textFr": "Allah aime le serviteur qui entretient les liens de parenté.",
+    "textEn": "Allah loves the servant who maintains family ties.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 326,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَكْذِبُ فِي الْحَدِيثِ",
+    "textFr": "Ne sois pas de ceux qui mentent dans leur propos.",
+    "textEn": "Do not be among those who lie in their speech.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 327,
+    "textAr": "مَنْ صَبَرَ عَلَى الْبَلَاءِ نَالَ الثَّوَابَ",
+    "textFr": "Celui qui endure l'épreuve obtient la récompense.",
+    "textEn": "Whoever endures affliction attains reward.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 328,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَغْضُضُ بَصَرَهُ",
+    "textFr": "Allah aime le serviteur qui abaisse son regard.",
+    "textEn": "Allah loves the servant who lowers his gaze.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 329,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَخْشَى النَّاسَ فِي اللَّهِ",
+    "textFr": "Ne soyez pas de ceux qui craignent les gens au sujet d'Allah.",
+    "textEn": "Do not be among those who fear people regarding Allah.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 330,
+    "textAr": "مَنْ تَرَكَ الْفُضُولَ نَالَ الْوَرَعَ",
+    "textFr": "Celui qui abandonne les choses superflues obtient la scrupulosité.",
+    "textEn": "Whoever abandons superfluous things attains scrupulousness.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 331,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَذْكُرُهُ فِي الْخَلَاءِ",
+    "textFr": "Allah aime le serviteur qui Le mentionne dans l'isolement.",
+    "textEn": "Allah loves the servant who mentions Him in seclusion.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 332,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَشْتَهِي الطَّعَامَ وَيَنْسَى الذِّكْرَ",
+    "textFr": "Ne sois pas de ceux qui désirent la nourriture et oublient le rappel.",
+    "textEn": "Do not be among those who desire food and forget the remembrance.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 333,
+    "textAr": "مَنْ صَبَرَ عَلَى الْعُبُودِيَّةِ نَالَ الْحُرِّيَّةَ",
+    "textFr": "Celui qui endure l'adoration obtient la liberté.",
+    "textEn": "Whoever endures worship attains freedom.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 334,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَحْلُمُ عَلَى النَّاسِ",
+    "textFr": "Allah aime le serviteur qui est clément envers les gens.",
+    "textEn": "Allah loves the servant who is clement towards people.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 335,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَغْضَبُ كَثِيرًا فَيَخْسَرُ دِينَهُ",
+    "textFr": "Ne soyez pas de ceux qui se mettent souvent en colère, car ils perdent leur religion.",
+    "textEn": "Do not be among those who get angry often, for they lose their religion.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 336,
+    "textAr": "مَنْ تَرَكَ الْحَسَدَ نَالَ الرَّاحَةَ",
+    "textFr": "Celui qui abandonne l'envie obtient le repos.",
+    "textEn": "Whoever abandons envy attains rest.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 337,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُؤْثِرُ النَّاسَ عَلَى نَفْسِهِ",
+    "textFr": "Allah aime le serviteur qui préfère les autres à lui-même.",
+    "textEn": "Allah loves the servant who prefers others over himself.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 338,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَشْكُو الْفَقْرَ وَيَتْرُكُ الْعَمَلَ",
+    "textFr": "Ne sois pas de ceux qui se plaignent de la pauvreté et abandonnent le travail.",
+    "textEn": "Do not be among those who complain about poverty and abandon work.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 339,
+    "textAr": "مَنْ صَبَرَ عَلَى الْفَقْرِ نَالَ الْغِنَى",
+    "textFr": "Celui qui endure la pauvreté obtient la richesse.",
+    "textEn": "Whoever endures poverty attains wealth.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 340,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصْدُقُ فِي الْحَدِيثِ",
+    "textFr": "Allah aime le serviteur qui est véridique dans son propos.",
+    "textEn": "Allah loves the servant who is truthful in his speech.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 341,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَأْكُلُ كَثِيرًا فَيَثْقُلُ عَنِ الْعِبَادَةِ",
+    "textFr": "Ne soyez pas de ceux qui mangent beaucoup, car cela les alourdit dans l'adoration.",
+    "textEn": "Do not be among those who eat a lot, for it weighs them down in worship.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 342,
+    "textAr": "مَنْ تَرَكَ الشَّهَوَاتِ نَالَ الْعِبَادَةَ",
+    "textFr": "Celui qui abandonne les passions obtient l'adoration.",
+    "textEn": "Whoever abandons desires attains worship.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 343,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يُحْسِنُ الْوُضُوءَ",
+    "textFr": "Allah aime le serviteur qui fait bien ses ablutions.",
+    "textEn": "Allah loves the servant who performs ablution well.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 344,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَضْحَكُ فِي الْمَقَابِرِ",
+    "textFr": "Ne sois pas de ceux qui rient dans les cimetières.",
+    "textEn": "Do not be among those who laugh in the cemeteries.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 345,
+    "textAr": "مَنْ صَبَرَ عَلَى الْحِفْظِ نَالَ الْفَهْمَ",
+    "textFr": "Celui qui endure la mémorisation obtient la compréhension.",
+    "textEn": "Whoever endures memorization attains understanding.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 346,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَحْفَظُ الْقُرْآنَ",
+    "textFr": "Allah aime le serviteur qui mémorise le Coran.",
+    "textEn": "Allah loves the servant who memorizes the Quran.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 347,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَنْسَى الْقُرْآنَ",
+    "textFr": "Ne soyez pas de ceux qui oublient le Coran.",
+    "textEn": "Do not be among those who forget the Quran.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 348,
+    "textAr": "مَنْ تَرَكَ الدُّنْيَا رَبِحَ الْآخِرَةَ",
+    "textFr": "Celui qui abandonne ce monde gagne l'au-delà.",
+    "textEn": "Whoever abandons this world gains the Hereafter.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 349,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَصْبِرُ عَلَى الصَّلَاةِ",
+    "textFr": "Allah aime le serviteur qui endure la prière.",
+    "textEn": "Allah loves the servant who endures prayer.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 350,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَخْشَى الْعُزْلَةَ",
+    "textFr": "Ne sois pas de ceux qui craignent la solitude.",
+    "textEn": "Do not be among those who fear solitude.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 351,
+    "textAr": "مَنْ صَبَرَ عَلَى الطَّاعَةِ نَالَ الْقُرْبَةَ",
+    "textFr": "Celui qui endure l'obéissance obtient la proximité.",
+    "textEn": "Whoever endures obedience attains closeness.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 352,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَذْكُرُهُ فِي الْقُرْآنِ",
+    "textFr": "Allah aime le serviteur qui Le mentionne dans le Coran.",
+    "textEn": "Allah loves the servant who mentions Him in the Quran.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 353,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَكْسَلُ عَنِ الصَّلَاةِ",
+    "textFr": "Ne soyez pas de ceux qui sont paresseux pour la prière.",
+    "textEn": "Do not be among those who are lazy for prayer.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 354,
+    "textAr": "مَنْ تَرَكَ الْمَعْصِيَةَ نَالَ الْمَغْفِرَةَ",
+    "textFr": "Celui qui abandonne la désobéissance obtient le pardon.",
+    "textEn": "Whoever abandons disobedience attains forgiveness.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 355,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَخْشَاهُ فِي الْعَلَانِيَةِ",
+    "textFr": "Allah aime le serviteur qui Le craint en public.",
+    "textEn": "Allah loves the servant who fears Him in public.",
+    "sourceAr": "عبد الله بن مسعود رضي الله عنه",
+    "sourceFr": "‘Abd Allâh ibn Mas‘ûd (qu'Allah l'agrée)",
+    "sourceEn": "‘Abd Allâh ibn Mas‘ûd (may Allah be pleased with him)"
+  },
+  {
+    "id": 356,
+    "textAr": "لَا تَكُنْ مِمَّنْ يَذْكُرُ اللَّهَ قَلِيلًا",
+    "textFr": "Ne sois pas de ceux qui mentionnent Allah rarement.",
+    "textEn": "Do not be among those who mention Allah rarely.",
+    "sourceAr": "عمر بن الخطاب رضي الله عنه",
+    "sourceFr": "‘Umar ibn al-Khattâb (qu'Allah l'agrée)",
+    "sourceEn": "‘Umar ibn al-Khattâb (may Allah be pleased with him)"
+  },
+  {
+    "id": 357,
+    "textAr": "مَنْ صَبَرَ عَلَى الدُّنْيَا نَالَ الْآخِرَةَ",
+    "textFr": "Celui qui endure ce monde obtient l'au-delà.",
+    "textEn": "Whoever endures this world attains the Hereafter.",
+    "sourceAr": "علي بن أبي طالب رضي الله عنه",
+    "sourceFr": "‘Alî ibn Abî Tâlib (qu'Allah l'agrée)",
+    "sourceEn": "‘Alî ibn Abî Tâlib (may Allah be pleased with him)"
+  },
+  {
+    "id": 358,
+    "textAr": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ الَّذِي يَتَعَلَّمُ الْعِلْمَ",
+    "textFr": "Allah aime le serviteur qui apprend la science.",
+    "textEn": "Allah loves the servant who learns knowledge.",
+    "sourceAr": "الحسن البصري رحمه الله",
+    "sourceFr": "Al-Hasan al-Basrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Al-Hasan al-Basrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 359,
+    "textAr": "لَا تَكُونُوا مِمَّنْ يَأْخُذُ الْعِلْمَ لِلرِّيَاءِ",
+    "textFr": "Ne soyez pas de ceux qui apprennent la science pour l'ostentation.",
+    "textEn": "Do not be among those who learn knowledge for showing off.",
+    "sourceAr": "سفيان الثوري رحمه الله",
+    "sourceFr": "Sufyân ath-Thawrî (qu'Allah lui fasse miséricorde)",
+    "sourceEn": "Sufyân ath-Thawrî (may Allah have mercy on him)"
+  },
+  {
+    "id": 360,
+    "textAr": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+    "textFr": "Seigneur, ne fais pas dévier nos cœurs après nous avoir guidés.",
+    "textEn": "Our Lord, do not let our hearts deviate after You have guided us.",
+    "sourceAr": "آل عمران:8 (دعاء السلف)",
+    "sourceFr": "Coran 3:8 (Invocation des Salaf)",
+    "sourceEn": "Quran 3:8 (Supplication of the Salaf)"
   }
 ]
